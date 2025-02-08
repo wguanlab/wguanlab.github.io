@@ -20,11 +20,27 @@ profiles:
       <p>Luddy School of Informatics, Computing, and Engineering</p>
       <p>Email: guanw@iu.edu</p>
   - align: left
-    image: prof_pic.jpg
+    image: Asad_Khalid.jpg
     content: about_einstein.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      <p>Postdoc</p>
+  - align: left
+    image: Aneesh_Kshirsagar.jpg
+    content: about_Aneesh_Kshirsagar.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Phd student</p>
+  - align: left
+    image: Anthony_Politza.jpg
+    content: about_Anthony_Politza.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Phd student</p>
+  - align: left
+    image: Ahasan_Ahamed.jpg
+    content: about_Ahasan_Ahamed.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Phd student</p>
 ---
