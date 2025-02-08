@@ -14,33 +14,33 @@ profiles:
     content: about_Weihua_Guan.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>Weihua (Wei) Guan, Ph.D.</p>
-      <p>Professor</p>
-      <p>Department of Intelligent Systems Engineering</p>
-      <p>Luddy School of Informatics, Computing, and Engineering</p>
-      <p>Email: guanw@iu.edu</p>
+      Weihua (Wei) Guan, Ph.D.  
+      Professor  
+      Department of Intelligent Systems Engineering  
+      Luddy School of Informatics, Computing, and Engineering  
+      Email: guanw@iu.edu  
   - align: left
     image: Asad_Khalid.jpg
-    content: about_einstein.md
+    content: about_Asad_Khalid.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>Postdoc</p>
+      Postdoc  
   - align: left
     image: Aneesh_Kshirsagar.jpg
     content: about_Aneesh_Kshirsagar.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>Phd student</p>
+      Phd student  
   - align: left
     image: Anthony_Politza.jpg
     content: about_Anthony_Politza.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>Phd student</p>
+      Phd student  
   - align: left
     image: Ahasan_Ahamed.jpg
     content: about_Ahasan_Ahamed.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>Phd student</p>
+      Phd student  
 ---
