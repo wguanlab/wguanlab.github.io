@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Biomedical Devices, Sensors, and Systems
 
 profile:
   align: right
@@ -27,8 +27,24 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+> **Lab Mission**: Democratizing accessible, affordable, accurate, and actionable diagnosis wherever and whenever needed
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+We are a multidisciplinary team of engineers and scientists dedicated to integrating engineering, biology, and medicine to create innovative solutions for healthcare challenges. Our mission is to advance healthcare through research and groundbreaking innovation. At our core, we believe in the transformative power of technology to enhance patient outcomes. Driven by this belief, we develop cutting-edge biomedical devices, sensors, and systems prioritizing efficiency, effectiveness, and accessibility for all. With a passion for tackling complex problems, we continuously explore new and innovative approaches to improve lives.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Our research spans several core areas, including:
+
+- **Innovative Devices, Sensors, and Systems Development**: Pioneering next-generation hardware integration and design.
+- **Translational Clinical Innovations**: Deploying cutting-edge applications targeting infectious diseases, neurodegenerative diseases, and oncology.
+- **Advanced Biothreat Surveillance**: Leveraging real-time analytics and smart monitoring for proactive biosecurity.
+- **Smart Agriculture & Precision Monitoring**: Revolutionizing agri-tech through sensor-driven, data-informed management.
+- **Intelligent Data Analytics**: Harnessing machine learning and AI to unlock actionable insights from sensors.
+- **Edge Computing & Decentralized Intelligence**: Empowering real-time processing with GPU acceleration, Arduino prototypes, Raspberry Pi platforms, and other edge devices.
+
+To develop innovative solutions, we leverage a diverse array of cutting-edge technologies, including:
+
+- **Device Fabrication**: Leveraging micro/nanofabrication, 3D printing, rapid prototyping for develop sensors and lab-on-a-chip devices
+- **Embedded Systems**: Employing mbedded hardware platforms like Jetson, Arduino,  Raspberry Pi to drive innovation.
+- **Molecular Techniques**: Advanced molecular technologies, and single molecule sequencing for precise diagnostic capabilities.
+- **Advanced Analytics & Edge Computing**: Empowering intelligent decision-making through machine learning, artificial intelligence and GPU acceleration.
+  
+By integrating these advanced technologies with our expertise in engineering, biology, and medicine, we strive to create innovative and transformative solutions.
