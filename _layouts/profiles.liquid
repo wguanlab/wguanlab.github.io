@@ -1,77 +1,36 @@
 ---
 layout: page
 ---
-
 <div class="post">
   <article>
-
-    {% if page.current_members %}
-      <h2>Current Members</h2>
-      {% for group in page.current_members %}
-        <h3>{{ group.category }}</h3>
-        {% for member in group.members %}
-          <hr>
-          <div class="profile float-{% if member.align == 'left' %}left{% else %}right{% endif %}">
-            {% if member.image %}
-              {% assign member_image_path = member.image | prepend: 'assets/img/' %}
-              {% if member.image_circular %}
-                {% assign member_image_class = 'img-fluid z-depth-1 rounded-circle' %}
-              {% else %}
-                {% assign member_image_class = 'img-fluid z-depth-1 rounded' %}
-              {% endif %}
-              {% capture sizes %}(min-width: {{ site.max_width }}) {{ site.max_width | minus: 30 | times: 0.3}}px, (min-width: 576px) 30vw, 95vw"{% endcapture %}
-              {% include figure.liquid loading="eager" path=member_image_path class=member_image_class sizes=sizes alt=member.image %}
-            {% endif %}
-            {% if member.more_info %}
-              <div class="more-info">{{ member.more_info }}</div>
-            {% endif %}
-          </div>
-
-          <div class="clearfix">
-            {% if member.content %}
-              {% capture member_content %}{% include_relative {{ member.content }} %}{% endcapture %}
-              {{ member_content | markdownify }}
+    {% if page.profiles %}
+      {% for profile in page.profiles %}
+        <hr>
+        <div class="profile float-{% if profile.align == 'left' %}left{% else %}right{% endif %}">
+          {% if profile.image %}
+            {% assign profile_image_path = profile.image | prepend: 'assets/img/' %}
+            {% if profile.image_circular %}
+              {% assign profile_image_class = 'img-fluid z-depth-1 rounded-circle' %}
             {% else %}
-              {{ content }}
+              {% assign profile_image_class = 'img-fluid z-depth-1 rounded' %}
             {% endif %}
-          </div>
-        {% endfor %}
+            {% capture sizes %}(min-width: {{ site.max_width }}) {{ site.max_width | minus: 30 | times: 0.3}}px, (min-width: 576px) 30vw, 95vw"{% endcapture %}
+            {% include figure.liquid loading="eager" path=profile_image_path class=profile_image_class sizes=sizes alt=profile.image %}
+          {% endif %}
+          {% if profile.more_info %}
+            <div class="more-info">{{ profile.more_info }}</div>
+          {% endif %}
+        </div>
+
+        <div class="clearfix">
+          {% if profile.content %}
+            {% capture profile_content %}{% include_relative {{ profile.content }} %}{% endcapture %}
+            {{ profile_content | markdownify }}
+          {% else %}
+            {{ content }}
+          {% endif %}
+        </div>
       {% endfor %}
     {% endif %}
-
-    {% if page.past_members %}
-      <h2>Past Members</h2>
-      {% for group in page.past_members %}
-        <h3>{{ group.category }}</h3>
-        {% for member in group.members %}
-          <hr>
-          <div class="profile float-{% if member.align == 'left' %}left{% else %}right{% endif %}">
-            {% if member.image %}
-              {% assign member_image_path = member.image | prepend: 'assets/img/' %}
-              {% if member.image_circular %}
-                {% assign member_image_class = 'img-fluid z-depth-1 rounded-circle' %}
-              {% else %}
-                {% assign member_image_class = 'img-fluid z-depth-1 rounded' %}
-              {% endif %}
-              {% capture sizes %}(min-width: {{ site.max_width }}) {{ site.max_width | minus: 30 | times: 0.3}}px, (min-width: 576px) 30vw, 95vw"{% endcapture %}
-              {% include figure.liquid loading="eager" path=member_image_path class=member_image_class sizes=sizes alt=member.image %}
-            {% endif %}
-            {% if member.more_info %}
-              <div class="more-info">{{ member.more_info }}</div>
-            {% endif %}
-          </div>
-
-          <div class="clearfix">
-            {% if member.content %}
-              {% capture member_content %}{% include_relative {{ member.content }} %}{% endcapture %}
-              {{ member_content | markdownify }}
-            {% else %}
-              {{ content }}
-            {% endif %}
-          </div>
-        {% endfor %}
-      {% endfor %}
-    {% endif %}
-
   </article>
 </div>
