@@ -6,8 +6,6 @@ description: members of the lab
 nav: true
 nav_order: 7
 
-can i write naytthign here???
-
 
 profiles:
   # if you want to include more than one profile, just replicate the following block
