@@ -7,9 +7,9 @@ layout: page
 
     {% if page.current_members %}
       <h2>Current Members</h2>
-      {% for category, members in page.current_members %}
-        <h3>{{ category }}</h3>
-        {% for member in members %}
+      {% for group in page.current_members %}
+        <h3>{{ group.category }}</h3>
+        {% for member in group.members %}
           <hr>
           <div class="profile float-{% if member.align == 'left' %}left{% else %}right{% endif %}">
             {% if member.image %}
@@ -41,9 +41,9 @@ layout: page
 
     {% if page.past_members %}
       <h2>Past Members</h2>
-      {% for category, members in page.past_members %}
-        <h3>{{ category }}</h3>
-        {% for member in members %}
+      {% for group in page.past_members %}
+        <h3>{{ group.category }}</h3>
+        {% for member in group.members %}
           <hr>
           <div class="profile float-{% if member.align == 'left' %}left{% else %}right{% endif %}">
             {% if member.image %}
