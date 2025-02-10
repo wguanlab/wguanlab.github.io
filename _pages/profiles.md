@@ -28,67 +28,72 @@ profiles:
       - Postdoc (2023- )
       - Email: askhalid@iu.edu
     image_circular: false # crops the image to make it circular
-    more_info:
+    more_info: >
+      Asad Khalid, Ph.D.
 
   - align: left
     image: Aneesh_Kshirsagar.jpg
     content: >
       - Ph.D. Students (2021- ), Electrical Engineering
     image_circular: false # crops the image to make it circular
-    more_info: 
+    more_info: >
+      Aneesh Kshirsagar
      
   - align: left
     image: Anthony_Politza.jpg
     content: >
       - Ph.D. Students (2021- ), Biomedical Engineering
     image_circular: false # crops the image to make it circular
-    more_info:
+    more_info: >
+      Anthony Politza
 
   - align: left
     image: Ahasan_Ahamed.jpg
     content: >
       - Ph.D. Students (2023- ), Electrical Engineering
     image_circular: false # crops the image to make it circular
-    more_info: 
+    more_info: >
+      Ahasan Ahamed
   
   - align: left
     image: Ming_Dong.jpg
     content: >
       - Ph.D. Students (2019-2024), Electrical Engineering
-      - Dissertation Title: Addressing Reliability Challenges in Solid-State Nanopore Sensors for Robust Point-Of-Care Diagnostics.
+      - Dissertation: Addressing Reliability Challenges in Solid-State Nanopore Sensors for Robust Point-Of-Care Diagnostics.
     image_circular: false # crops the image to make it circular
     more_info:      
 
-    - align: left
+  - align: left
     image: Tianyi_Liu.jpg
     content: >
-      - Ph.D. Students (2019-2024), Electrical Engineering, 
-      - Dissertation Title: Advancing Integrated Nucleic Acid Testing for HIV Self-Testing and Personalized Viral Load Monitoring
+      - Ph.D. Students (2019-2024), Electrical Engineering
+      - Dissertation: Advancing Integrated Nucleic Acid Testing for HIV Self-Testing and Personalized Viral Load Monitoring
     image_circular: false # crops the image to make it circular
     more_info:    
 
-    - align: left
+  - align: left
     image: Reza_Nouri.jpg
     content: >
       - Ph.D. Students (2018-2022), Electrical Engineering
-      - Dissertation Title: Solid-State Nanopore CRISPR-Assisted Diagnostic Systems Toward Digital Nucleic Acid Testing.
+      - Dissertation: Solid-State Nanopore CRISPR-Assisted Diagnostic Systems Toward Digital Nucleic Acid Testing.
     image_circular: false # crops the image to make it circular
     more_info:      
 
-    - align: left
+  - align: left
     image: Zifan_Tang.jpg
     content: >
       - Ph.D. Students (2017-2022), Electrical Engineering
-      - Dissertation Title: Solid-State Nanopore Fabrication and Sensing Towards Integrated Nucleic Acid Testing. 
+      - Dissertation: Solid-State Nanopore Fabrication and Sensing Towards Integrated Nucleic Acid Testing. 
     image_circular: false # crops the image to make it circular
-    more_info:  
+    more_info: >
+      Zifan Tang
 
-    - align: left
+  - align: left
     image: Gihoon_Choi.jpg
     content: >
       - Ph.D. Students (2015-2020), Electrical Engineering
-      - Dissertation Title: Microfluidic Molecular and Cellular Detection of Malaria Towards Elimination. 
+      - Dissertation: Microfluidic Molecular and Cellular Detection of Malaria Towards Elimination. 
     image_circular: false # crops the image to make it circular
-    more_info:      
+    more_info: Gihoon Choi     
 ---
 
