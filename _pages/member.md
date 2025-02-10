@@ -64,7 +64,8 @@ profiles:
     image: Ming_Dong.jpg
     content: >
       Ph.D. Students (2019-2024), Electrical Engineering <br>
-      Dissertation: Addressing Reliability Challenges in Solid-State Nanopore Sensors for Robust Point-Of-Care Diagnostics.
+      Dissertation: Addressing Reliability Challenges in Solid-State Nanopore Sensors for Robust Point-Of-Care Diagnostics. <br>
+      Next: Huawei Technologies <br>
     image_circular: false # crops the image to make it circular
     more_info:  Ming Dong    
 
@@ -72,7 +73,8 @@ profiles:
     image: Tianyi_Liu.jpg
     content: >
       Ph.D. Students (2019-2024), Electrical Engineering <br>
-      Dissertation: Advancing Integrated Nucleic Acid Testing for HIV Self-Testing and Personalized Viral Load Monitoring
+      Dissertation: Advancing Integrated Nucleic Acid Testing for HIV Self-Testing and Personalized Viral Load Monitoring. <br>
+      Next: Postdoc, Johns Hopkins <br>
     image_circular: false # crops the image to make it circular
     more_info: Tianyi Liu  
 
@@ -80,7 +82,8 @@ profiles:
     image: Reza_Nouri.jpg
     content: >
       Ph.D. Students (2018-2022), Electrical Engineering <br>
-      Dissertation: Solid-State Nanopore CRISPR-Assisted Diagnostic Systems Toward Digital Nucleic Acid Testing.
+      Dissertation: Solid-State Nanopore CRISPR-Assisted Diagnostic Systems Toward Digital Nucleic Acid Testing.<br>
+      Next: Nationwide Children's Hospital, OH <br>
     image_circular: false # crops the image to make it circular
     more_info: Reza Nouri   
 
@@ -88,7 +91,8 @@ profiles:
     image: Zifan_Tang.jpg
     content: >
       Ph.D. Students (2017-2022), Electrical Engineering <br>
-      Dissertation: Solid-State Nanopore Fabrication and Sensing Towards Integrated Nucleic Acid Testing. 
+      Dissertation: Solid-State Nanopore Fabrication and Sensing Towards Integrated Nucleic Acid Testing.<br>
+      Next: Illumina Inc, CA <br>
     image_circular: false # crops the image to make it circular
     more_info: Zifan Tang
 
@@ -96,8 +100,10 @@ profiles:
     image: Gihoon_Choi.jpg
     content: >
       Ph.D. Students (2015-2020), Electrical Engineering <br>
-      Dissertation: Microfluidic Molecular and Cellular Detection of Malaria Towards Elimination. 
+      Dissertation: Microfluidic Molecular and Cellular Detection of Malaria Towards Elimination. <br>
+      Next: Sandia National Labs, CA<br>
     image_circular: false # crops the image to make it circular
     more_info: Gihoon Choi     
+
 ---
 
