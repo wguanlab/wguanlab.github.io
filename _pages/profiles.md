@@ -23,31 +23,31 @@ profiles:
 
   - align: left
     image: Asad_Khalid.jpg
-    content: about_Asad_Khalid.md
+    content: Postdoc (2023- )
     image_circular: false # crops the image to make it circular
     more_info:
 
   - align: left
     image: Aneesh_Kshirsagar.jpg
-    content: about_Aneesh_Kshirsagar.md
+    content: Ph.D. Students (2021- )
     image_circular: false # crops the image to make it circular
     more_info: 
      
   - align: left
     image: Anthony_Politza.jpg
-    content: about_Anthony_Politza.md
+    content: Ph.D. Students (2021- )
     image_circular: false # crops the image to make it circular
     more_info:
 
   - align: left
     image: Ahasan_Ahamed.jpg
-    content: about_Ahasan_Ahamed.md
+    content: Ph.D. Students (2023- )
     image_circular: false # crops the image to make it circular
     more_info: 
   
   - align: left
     image: Ming_Dong.jpg
-    content: test text
+    content: Ph.D. Students (2019-2024), Electrical Engineering, Dissertation Title: Addressing Reliability Challenges in Solid-State Nanopore Sensors for Robust Point-Of-Care Diagnostics.
     image_circular: false # crops the image to make it circular
     more_info:      
       
