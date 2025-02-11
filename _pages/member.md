@@ -105,5 +105,38 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: Gihoon Choi     
 
+
+
+
+
+  - align: left
+    image: Xiaodong_He.jpg
+    content: >
+      Postdoc (Feb 2019 – Jul 2020) <br>
+      Next: Assistant Professor at Lanzhou University<br>
+    image_circular: false # crops the image to make it circular
+    more_info: Xiaodong He, Ph.D.
+
+
+  - align: left
+    image: Xiaonan_Yang.jpg
+    content: >
+      Postdoc (Feb 2016- Jan 2017) <br>
+      Next: AAssociate Professor at Zhengzhou University<br>
+    image_circular: false # crops the image to make it circular
+    more_info: Xiaonan Yang, Ph.D.
+
+
+  - align: left
+    image: Zhikun_Zhang.jpg
+    content: >
+      Postdoc (Jan 2023- March 2024) <br>
+      Next: AAssociate Professor at Hebei University of Science and Technology<br>
+    image_circular: false # crops the image to make it circular
+    more_info: Zhikun Zhang, Ph.D.
+
+
+
+
 ---
 
