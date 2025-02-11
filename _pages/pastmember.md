@@ -1,11 +1,12 @@
 ---
 layout: page
-permalink: /alumni/
-title: alumni
+permalink: /pastmember/
+title: pastmember
 description: past members of the lab
-nav: true
+nav: false
 nav_order: 6
 ---
+
 
 
 ## Postdoctoral Scholars
@@ -14,14 +15,21 @@ nav_order: 6
 |------|--------|-----------------|
 | Dr. Xiaodong He | Feb 2019 – Jul 2020 | Assistant Professor at Lanzhou University |
 | Dr. Xiaonan Yang | Feb 2016 – Jan 2017 | Associate Professor at Zhengzhou University |
+| Dr. Zhikun Zhang | Jan 2023- March 2024 | Associate Professor at Hebei University of Science and Technology |
+
+---
 
 ## Ph.D. Students
 
 | Name | Graduation Date | Dissertation | Next Position |
 |------|----------------|--------|-----------|
+| Reza Nouri | Dec 2024 | Addressing Reliability Challenges in Solid-State Nanopore Sensors for Robust Point-Of-Care Diagnostics. | Huawei Technologies |
+| Tianyi_Liu | Dec 2024 | Advancing Integrated Nucleic Acid Testing for HIV Self-Testing and Personalized Viral Load Monitoring | Postdoc, Johns Hopkins |
 | Reza Nouri | Dec 2022 | Solid-state nanopore CRISPR-assisted diagnostic systems toward digital nucleic acid testing | Nationwide Children’s Hospital |
 | Zifan Tang | May 2022 | Digital solid-state nanopore fabrication and sensing towards integrated nucleic acid testing | Illumina Inc |
 | Gihoon Choi | May 2020 | Microfluidic molecular and cellular detection of malaria towards elimination | Sandia National Laboratories |
+
+---
 
 ## Master Students
 
@@ -32,6 +40,8 @@ nav_order: 6
 | Kamyar Akbari Roshan | August 2017 – May 2019 |
 | Qi Yan | August 2016 – December 2017 |
 | Nicholas Budzinski | August 2017 – May 2018 |
+
+---
 
 ## Undergraduate Students
 
@@ -56,4 +66,3 @@ nav_order: 6
 | John DiDonato | Aug 2015 – Dec 2015 |  |
 | Kristina Ly | Jan 2015 – Dec 2015 | CoE REU |
 | Parker Reusch | Jan 2015 – May 2015 |  |
-
