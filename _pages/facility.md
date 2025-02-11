@@ -23,6 +23,8 @@ nav_order: 7
 - Various DC Power Sources
 - TMC Vibration Isolation Table 4 by 6
 
+---
+
 ## Optics
 
 - Nikon inverted microscope Eclipse Ti-U with Epi-Fluo with scanning stage
@@ -34,11 +36,15 @@ nav_order: 7
 - Excelitas Single Photon Counting Modules (SPCMs)
 - Various Coherent OBIS lasers (488nm and 552 nm, 20mW to 100mW).
 
+---
+
 ## Mechanics
 
 - NanoCube XYZ Piezo Systems for nanopositioning;
 - Stepper motor-driven systems (MMP3) for micropositioning
 - Multiple manual stages.
+
+---
 
 ## Microfluidics
 
@@ -48,11 +54,15 @@ nav_order: 7
 - The multichannel flow cytometry system
 - Omega precision pressure regulators
 
+---
+
 ## Analytical Equipment
 
 - Nanodrop 2000 Spectrophotometers
 - Sartorius Entris Analytical Balance
 - Customized Scanning Ion-Conductance Microscopy (SICM) Setup
+
+---
 
 ## Fabrication and Manufacturing
 
@@ -67,6 +77,8 @@ nav_order: 7
 - Universal Laser System for Material Processing
 - Labconco Freeze Dry System for Reagents Lyophilization
 
+---
+
 ## PCR Equipment
 
 - Air Clean 600 PCR Workstations
@@ -76,11 +88,15 @@ nav_order: 7
 - Bio-Rad Sub-Cell GT Horizontal Electrophoresis Cell
 - VWR PCR Plate Spinner
 
+---
+
 ## Refrigerators and Freezers
 
 - Thermo Fisher 4°C Refrigerator
 - Thermo Fisher -20°C Freezers
 - Thermo Scientific -80°C Freezer
+
+---
 
 ## General Equipment
 
@@ -96,6 +112,8 @@ nav_order: 7
 - Eppendorf 5425 Centrifuge
 - Millipore Direct-Q 3 UV Water Purification System
 - Fume hoods
+
+---
 
 ## Computing and Softwares
 

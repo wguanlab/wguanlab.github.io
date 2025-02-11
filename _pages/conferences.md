@@ -4,7 +4,7 @@ permalink: /conferences/
 title: conferences
 description: Conference Publications and Presentations
 nav: false
-nav_order: 2
+nav_order: 100
 ---
 
 1. Aneesh Kshirsagar, Anthony J. Politza, Santhamani Ramasamy, Lindsey C. LaBella, Kurt J Vandegrift, Suresh V. Kuchipudi, and Weihua Guan, A rapid and cost-effective field deployable diagnostic platform for detecting SARS-CoV-2 in white-tailed deer, CRWAD 2025, Chicago, IL, 2025
