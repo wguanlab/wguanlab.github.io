@@ -32,30 +32,30 @@ nav_order: 100
 
 ## Postdoctoral Scholars
 
-| Name | Period | Next Position |
+| Name | Period | Additional Information |
 |------|--------|-----------------|
-| Dr. Xiaodong He | Feb 2019 – Jul 2020 | Assistant Professor at Lanzhou University |
-| Dr. Xiaonan Yang | Feb 2016 – Jan 2017 | Associate Professor at Zhengzhou University |
-| Dr. Zhikun Zhang | Jan 2023- Mar 2024 | Associate Professor at Hebei University of Science and Technology |
+| Dr. Xiaodong He | Feb 2019 – Jul 2020 | Next Position: Assistant Professor at Lanzhou University |
+| Dr. Xiaonan Yang | Feb 2016 – Jan 2017 | Next Position: Associate Professor at Zhengzhou University |
+| Dr. Zhikun Zhang | Jan 2023 - Mar 2024 | Next Position: Associate Professor at Hebei University of Science and Technology |
 
 ---
 
 ## Ph.D. Students
 
-| Name | Period | Dissertation | Next Position |
-|------|----------------|--------|-----------|
-| Ming Dong | Aug 2019 - Dec 2024 | Addressing Reliability Challenges in Solid-State Nanopore Sensors for Robust Point-Of-Care Diagnostics. | Huawei Technologies |
-| Tianyi_Liu | Aug 2020 - Oct 2024 | Advancing Integrated Nucleic Acid Testing for HIV Self-Testing and Personalized Viral Load Monitoring | Postdoc, Johns Hopkins |
-| Reza Nouri | Aug 2018 - Aug 2022 | Solid-state nanopore CRISPR-assisted diagnostic systems toward digital nucleic acid testing | Nationwide Children’s Hospital |
-| Zifan Tang | Aug 2018 - May 2022 | Digital solid-state nanopore fabrication and sensing towards integrated nucleic acid testing | Illumina Inc |
-| Gihoon Choi | Aug 2015 - May 2020 | Microfluidic molecular and cellular detection of malaria towards elimination | Sandia National Laboratories |
+| Name | Period | Additional Information |
+|------|----------------|--------|
+| Ming Dong | Aug 2019 - Dec 2024 | **Dissertation**: Addressing Reliability Challenges in Solid-State Nanopore Sensors for Robust Point-Of-Care Diagnostics. <br>**Next Position**: Huawei Technologies |
+| Tianyi_Liu | Aug 2020 - Oct 2024 | **Dissertation**: Advancing Integrated Nucleic Acid Testing for HIV Self-Testing and Personalized Viral Load Monitoring. <br>**Next Position**: Postdoc, Johns Hopkins |
+| Reza Nouri | Aug 2018 - Aug 2022 | **Dissertation**: Solid-state nanopore CRISPR-assisted diagnostic systems toward digital nucleic acid testing. <br>**Next Position**: Nationwide Children’s Hospital |
+| Zifan Tang | Aug 2018 - May 2022 | **Dissertation**: Digital solid-state nanopore fabrication and sensing towards integrated nucleic acid testing. <br>**Next Position**: Illumina Inc |
+| Gihoon Choi | Aug 2015 - May 2020 | **Dissertation**: Microfluidic molecular and cellular detection of malaria towards elimination. <br>**Next Position**: Sandia National Laboratories |
 
 ---
 
 ## Master Students
 
 | Name | Period |
-|------|--------|
+|------|----------------|
 | Fanming Liu |  Aug 2022 – Mar 2023 |
 | Wenxin Cao |  Aug 2020 – May 2021 |
 | Kamyar Akbari Roshan |  Aug 2017 – May 2019 |
@@ -71,9 +71,9 @@ nav_order: 100
 | Hueyue Pan | Aug 2022 – Mar 2023 |  |
 | Naqiyah Peatiwala | Jan 2022 – May 2022 |  |
 | Jiarui (Jerry) Cui | Aug 2020 – May 2022 |  |
-| Dean DeRosa | Jan 2021 – May 2022 | **Schreyer Scholar**,  **Thesis:** Design and Validation of a Low-Cost 8-Channel qRT-LAMP Test with Real-Time Result Readout |
+| Dean DeRosa | Jan 2021 – May 2022 | **Schreyer Scholar** <br>**Thesis:** Design and Validation of a Low-Cost 8-Channel qRT-LAMP Test with Real-Time Result Readout |
 | Xiayu Wang | Oct 2019 – Mar 2020 |  |
-| Erica Murphy | Aug 2018 – May 2019 | **Schreyer Scholar**, **Thesis:** Microfluidic Time-Division Multiple Access Resistive Pulse Sensor For Particle Analysis |
+| Erica Murphy | Aug 2018 – May 2019 | **Schreyer Scholar** <br>**Thesis:** Microfluidic Time-Division Multiple Access Resistive Pulse Sensor For Particle Analysis |
 | Tianyi Liu | Jan 2018 – May 2019 | CoE REU Program|
 | Swasti Mehra | Aug 2018 – Dec 2018 | CoE REU Program |
 | Fuchang Jiang | Jan 2018 – May 2018 |  |
