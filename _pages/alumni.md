@@ -11,19 +11,22 @@ nav_order: 100
   table {
     width: 100%;
     table-layout: fixed;
-    border-collapse: separate;
-    border-spacing: 0 10px; /* Adds spacing between rows */
+    border-collapse: collapse;
   }
   th, td {
     padding: 10px;
     border-bottom: 1px solid #ddd;
+    text-align: left;
   }
   th:first-child, td:first-child {
-    width: 15%;
-    min-width: 120px;
+    width: 20%;
+    min-width: 150px;
+  }
+  th:nth-child(2), td:nth-child(2) {
+    width: 20%;
   }
   th:last-child, td:last-child {
-    width: 85%;
+    width: 60%;
   }
 </style>
 
