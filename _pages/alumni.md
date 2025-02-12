@@ -20,14 +20,13 @@ nav_order: 100
     text-align: left;
   }
   th:first-child, td:first-child {
-    width: 18%;
-    min-width: 100px;
+    width: 15%;
   }
   th:nth-child(2), td:nth-child(2) {
-    width: 18%;
+    width: 15%;
   }
   th:last-child, td:last-child {
-    width: 64%;
+    width: 70%;
   }
 </style>
 
@@ -57,11 +56,13 @@ nav_order: 100
 
 | Name | Period | Additional Information |
 |------|----------------|
+| Yilin Zhang |  Aug 2023 – Aug 2024 | |
 | Fanming Liu |  Aug 2022 – Mar 2023 | **Next**: PhD, PSU |
 | Wenxin Cao |  Aug 2020 – May 2021 | |
-| Kamyar Akbari Roshan |  Aug 2017 – May 2019 | **Next**: PhD, PSU |
-| Qi Yan |  Aug 2016 – Dec 2017 | |
+| Tianyi Liu  |  Aug 2019 – May 2020 | **Next**: PhD, PSU |
+| Kamyar Roshan |  Aug 2017 – May 2019 | **Next**: PhD, PSU |
 | Nicholas Budzinski |  Aug 2017 – May 2018 | |
+| Qi Yan |  Aug 2016 – Dec 2017 | |
 
 ---
 
