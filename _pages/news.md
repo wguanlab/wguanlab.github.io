@@ -2,7 +2,7 @@
 layout: page
 title: news
 permalink: /news/
-nav: true
+nav: false
 nav_order: 8
 
 ---
@@ -27,6 +27,8 @@ nav_order: 8
     width: 85%;
   }
 </style>
+
+
 
 | **2024-02-12** | Ahasan's work on using CRISPR-Cas12a Assisted Nanopore With RPA For Monkeypox Detection caught significant media coverage. <br> - [BPS Newsroom](https://www.biophysics.org/news-room/faster-monkeypox-mpox-testing-through-crispr), Faster Monkeypox (mpox) Testing Through CRISPR <br> - [Medriva](https://medriva.com/medical-breakthroughs/revolutionizing-pathogen-testing-a-faster-detection-method-for-mpox-virus-using-crispr-and-nanopore-sensing/), Revolutionizing Pathogen Testing: A Faster Detection Method for Mpox Virus Using CRISPR and Nanopore Sensing <br> - [Azolifesciences](https://www.azolifesciences.com/news/20240212/New-CRISPR-Based-Test-Detects-Mpox-Faster.aspx), New CRISPR-Based Test Detects Mpox Faster <br> - [News Medical](https://www.msn.com/en-gb/health/other/crispr-could-be-used-for-faster-monkeypox-testing/ar-BB1i9WoU), CRISPR could be used for faster monkeypox testing |
 
