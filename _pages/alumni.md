@@ -4,7 +4,7 @@ permalink: /alumni/
 title: alumni
 description: past members of the lab
 nav: false
-nav_order: 100
+nav_order: 3
 ---
 
 <style>
