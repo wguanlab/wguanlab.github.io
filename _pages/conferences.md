@@ -3,7 +3,7 @@ layout: page
 permalink: /conferences/
 title: conferences
 description: Conference Publications and Presentations
-nav: false
+nav: true
 nav_order: 100
 ---
 
