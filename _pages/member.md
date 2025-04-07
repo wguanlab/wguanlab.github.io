@@ -3,8 +3,8 @@ layout: profiles
 permalink: /member/
 title: member
 description: current members of the lab
-nav: false
-nav_order: 100
+nav: true
+nav_order: 5
 
 
 profiles:
