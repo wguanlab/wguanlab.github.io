@@ -13,7 +13,42 @@ social: false # includes social icons at the bottom of the page
 
 > **Lab Mission**: Democratizing accessible, affordable, accurate, and actionable diagnosis wherever and whenever needed
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OTjA034vnD4" 
+title="YouTube video player" frameborder="0" 
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+allowfullscreen></iframe>
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SyYBqOtjXas" 
+title="YouTube video player" frameborder="0" 
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vYCH65Hoe9k" 
+title="YouTube video player" frameborder="0" 
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PG7Qv6tsoEc" 
+title="YouTube video player" frameborder="0" 
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KSRmpf7aNYk" 
+title="YouTube video player" frameborder="0" 
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7jRGHZZ1hh8" 
+title="YouTube video player" frameborder="0" 
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lsrBo5584Os" 
+title="YouTube video player" frameborder="0" 
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RDffYP9Js" 
 title="YouTube video player" frameborder="0" 
 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
 allowfullscreen></iframe>
@@ -22,6 +57,17 @@ allowfullscreen></iframe>
 title="YouTube video player" frameborder="0" 
 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
 allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hH8DkVzfL1k" 
+title="YouTube video player" frameborder="0" 
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fDIjJKisn7A" 
+title="YouTube video player" frameborder="0" 
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+allowfullscreen></iframe>
+
 
 We are a multidisciplinary team of engineers and scientists dedicated to integrating engineering, biology, and medicine to create innovative solutions for healthcare challenges. Our mission is to advance healthcare through research and groundbreaking innovation. At our core, we believe in the transformative power of technology to enhance patient outcomes. Driven by this belief, we develop cutting-edge biomedical devices, sensors, and systems prioritizing efficiency, effectiveness, and accessibility for all. With a passion for tackling complex problems, we continuously explore new and innovative approaches to improve lives.
 
