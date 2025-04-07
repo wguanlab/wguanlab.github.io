@@ -39,7 +39,7 @@ nav_order: 80
 
 | **2024-01-29** | Dr. Guan gave an invited talk at SPIE West. |
 
-| **2023-12-22** | Our article on the HIV viral load monitoring device is featured as the cover image of *ACS Sensors*! ![Cover](https://pubs.acs.org/cms/10.1021/ascefj.2023.8.issue-12/asset/ascefj.2023.8.issue-12.xlargecover-5.jpg) [🔗 Full Image](https://pubs.acs.org/cms/10.1021/ascefj.2023.8.issue-12/asset/ascefj.2023.8.issue-12.xlargecover-5.jpg) |
+| **2023-12-22** | Our article on the HIV viral load monitoring device is featured as the cover image of *ACS Sensors*! [🔗 Full Image](https://pubs.acs.org/cms/10.1021/ascefj.2023.8.issue-12/asset/ascefj.2023.8.issue-12.xlargecover-5.jpg) |
 
 | **2023-08-02** | Anthony’s work on the programmable magnetic robot (ProMagBot) for automated nucleic acid extraction at the point of need was accepted to [*Lab on Chip*](https://doi.org/10.1039/D3LC00545C). Congratulations! See [Video 1](https://www.rsc.org/suppdata/d3/lc/d3lc00545c/d3lc00545c1.mp4), [Video 2](https://www.rsc.org/suppdata/d3/lc/d3lc00545c/d3lc00545c2.mp4), [Video 3](https://www.rsc.org/suppdata/d3/lc/d3lc00545c/d3lc00545c3.mp4), [Video 4](https://www.rsc.org/suppdata/d3/lc/d3lc00545c/d3lc00545c4.mp4) for how it works. |
 
