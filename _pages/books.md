@@ -4,7 +4,7 @@ permalink: /books/
 title: books
 description: 
 nav: true
-nav_order: 6
+nav_order: 4
 ---
 
 - G. Choi, and W. Guan (2022). An Ultracompact Real-time Fluorescence Loop-mediated Isothermal Amplification (LAMP) Analyzer. Pages 257-278 In Book Bioengineering Technologies. New York, NY: Humana Press. ISBN: 978-1-0716-1802-8

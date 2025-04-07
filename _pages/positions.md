@@ -3,7 +3,7 @@ layout: page
 title: position
 permalink: /position/
 nav: true
-nav_order: 8
+nav_order: 10
 ---
 
 

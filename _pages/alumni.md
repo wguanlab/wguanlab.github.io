@@ -3,8 +3,8 @@ layout: page
 permalink: /alumni/
 title: alumni
 description: past members of the lab
-nav: false
-nav_order: 3
+nav: true
+nav_order: 6
 ---
 
 <style>
