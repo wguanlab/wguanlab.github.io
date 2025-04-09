@@ -20,25 +20,6 @@ title="YouTube video player" frameborder="0"
 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
 allowfullscreen></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8AB_7accJ68" 
-title="YouTube video player" frameborder="0" 
-allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-allowfullscreen></iframe>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Cx3gJ9m_Oog" 
-title="YouTube video player" frameborder="0" 
-allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-allowfullscreen></iframe>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PpJsww3IhuM" 
-title="YouTube video player" frameborder="0" 
-allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-allowfullscreen></iframe>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2PAoC0YPoCM" 
-title="YouTube video player" frameborder="0" 
-allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cGsdXeCO4Rw" 
 title="YouTube video player" frameborder="0" 
