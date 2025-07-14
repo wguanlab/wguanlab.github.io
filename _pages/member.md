@@ -39,6 +39,14 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: Asad Khalid, Ph.D.
 
+  - align: left
+    image: Bingyuan_Guo.jpg
+    content: >
+      Postdoc (2025- ) <br>
+      Email: Guo, Bingyuan <bingguo@iu.edu>
+    image_circular: false # crops the image to make it circular
+    more_info: Bingyuan Guo, Ph.D.
+
 
   - align: left
     image: Aneesh_Kshirsagar.jpg
