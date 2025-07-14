@@ -28,7 +28,7 @@ nav_order: 80
   }
 </style>
 | **2025-07-04** | Ahasan’s latest work on salivary miRNA-based prediction of severe COVID-19 in children has been published in [ACS Sensors](https://pubs.acs.org/doi/abs/10.1021/acssensors.5c01275). The study introduces a portable ligation-RPA assay enabling rapid, noninvasive, and multiplexed miRNA detection at the point of care.
-| **2025-07-03** | Former PhD student Tianyi Liu won Chinese Government [Award](https://en.wikipedia.org/wiki/Chinese_Government_Award_for_Outstanding_Self-Financed_Students_Abroad)for Outstanding Self-Financed Students Abroad.
+| **2025-07-03** | Former PhD student Tianyi Liu won Chinese Government [Award] (https://en.wikipedia.org/wiki/Chinese_Government_Award_for_Outstanding_Self-Financed_Students_Abroad)for Outstanding Self-Financed Students Abroad.
 | **2025-06-26** | Asad’s work on portable nanopore-based QC for cfDNA is now published in [ACS Sensors](https://pubs.acs.org/doi/abs/10.1021/acssensors.5c00803). The study enables rapid, label-free analysis at the point of sample collection—advancing real-time, decentralized sequencing.
 | **2025-05-01** | Welcome Dr. Bingyuan Guo as a Postdoctoral Research Associate in our group.
 | **2025-04-22** | Ming's work on  article on Addressing Buffer, Size, and Clogging Challenges in LAMP-Coupled Solid-State Nanopores for Point-of-Care Testing is featured as the cover image of *Analytical Chemistry*! [🔗 Full Image](https://pubs.acs.org/cms/10.1021/ancham.2025.97.issue-14/asset/ancham.2025.97.issue-14.xlargecover-4.jpg) |
