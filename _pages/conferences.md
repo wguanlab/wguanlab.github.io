@@ -7,6 +7,12 @@ nav: true
 nav_order: 3
 ---
 
+- Muhammad Asad Ullah Khalid, Md Ahasan Ahamed, Ming Dong, Aneesh Kshirsagar, and Weihua Guan, A Hydrogel-Interfaced Nanopore System for Sub-100 bp Nucleic Acid Sizing and Multiplexed Virus Detection, BMES Annual Meeting, San Diego, CA, 2025
+- Md Ahasan Ahamed, Zhikun Zhang, Aneesh Kshirsagar, Anthony J. Politza, Feng Guo, and Weihua Guan, Quantitative Detection of Severe COVID-19 in Children via Multiplex Salivary miRNA Profiling Using Ligation-RPA, BMES Annual Meeting, San Diego, CA, 2025
+- Aneesh Kshirsagar, Anthony J. Politza, Ming Dong, and Weihua Guan, Remotely Controlled Continuous Surveillance of Viral RNAs in Wastewater via LoRa Network, BMES Annual Meeting, San Diego, CA, 2025
+- Md Ahasan Ahamed, Muhammad Asad Ullah Khalid, Anthony J. Politza, Wahid Uz Zaman, and Weihua Guan, Single-Molecule Nanopore and Deep Learning–Based Platform for Probe-Free Multiplex RPA Detection, BMES Annual Meeting, San Diego, CA, 2025
+- Muhammad Asad Ullah Khalid, Md Ahasan Ahamed, Anthony J. Politza, and Weihua Guan, Solid-state nanopore sensor as a sample quality control tool for cfDNA in point-of-need sequencing applications, BMES Annual Meeting, San Diego, CA, 2025
+- Aneesh Kshirsagar, Anthony J. Politza, Ming Dong, and Weihua Guan, Remotely Controlled Continuous Surveillance of Viral RNAs in Wastewater via LoRa Network, IEEE BioSensors, San Diego, CA, 2025
 - Aneesh Kshirsagar, Anthony J. Politza, Santhamani Ramasamy, Lindsey C. LaBella, Kurt J Vandegrift, Suresh V. Kuchipudi, and Weihua Guan, A rapid and cost-effective field deployable diagnostic platform for detecting SARS-CoV-2 in white-tailed deer, CRWAD 2025, Chicago, IL, 2025
 - Aneesh Kshirsagar, Anthony J. Politza, Tianyi Liu, and Weihua Guan, Detection of Triple Respiratory Viruses in Saliva Using Multiplexed RT-LAMP on a Machine Learning-Empowered Portable Device, Building Bridges Across NIH and the Broader Engineering Community, Bethesda, MD, 2024
 - Anthony J. Politza, Tianyi Liu, Aneesh Kshirsagar, Ming Dong, Md. Ahasan Ahamed, and Weihua Guan, Development of a multiplexed LAMP assay for HIV viral load monitoring, Building Bridges Across NIH and the Broader Engineering Community, Bethesda, MD, 2024
