@@ -34,9 +34,9 @@ nav_order: 6
 
 | Name | Period | Additional Information |
 |------|--------|-----------------|
+| Dr. Zhikun Zhang | Jan 2023 - Mar 2024 | Next: Associate Professor at Hebei University of Science and Technology |
 | Dr. Xiaodong He | Feb 2019 – Jul 2020 | Next: Assistant Professor at Lanzhou University |
 | Dr. Xiaonan Yang | Feb 2016 – Jan 2017 | Next: Associate Professor at Zhengzhou University |
-| Dr. Zhikun Zhang | Jan 2023 - Mar 2024 | Next: Associate Professor at Hebei University of Science and Technology |
 
 ---
 
