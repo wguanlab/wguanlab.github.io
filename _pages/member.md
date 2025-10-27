@@ -34,7 +34,7 @@ profiles:
   - align: left
     image: Asad_Khalid.jpg
     content: >
-      Postdoc (2023- ) <br>
+      Postdoc<br>
       Email: <askhalid@iu.edu> <br><br>
       Asad Khalid is a Postdoctoral Fellow in the Guan Lab at Indiana University Bloomington. He joined the lab in Spring 2023 and is currently working on developing ultrafast Plasmonic PCR technology for multiplexed detection of respiratory infections at point-of-care. His research interests include point-of-care molecular diagnostics, nanopore single-molecule analysis, and sensor-integrated microfluidic organs-on-chips. <br>
       Google Scholar: <https://scholar.google.com/citations?user=UGOfoPsAAAAJ&hl=en> <br><br>
@@ -46,7 +46,7 @@ profiles:
   - align: left
     image: Bingyuan_Guo.jpg
     content: >
-      Postdoc (2025- ) <br>
+      Postdoc <br>
       Email: <bingguo@iu.edu>  <br><br>
     image_circular: false # crops the image to make it circular
     more_info: Bingyuan Guo, Ph.D.
@@ -55,7 +55,7 @@ profiles:
   - align: left
     image: Aneesh_Kshirsagar.jpg
     content: >
-      Ph.D. Students (2021- ), Electrical Engineering <br>
+      Ph.D. Students, Electrical Engineering <br>
     image_circular: false # crops the image to make it circular
     more_info:  Aneesh Kshirsagar
      
@@ -63,7 +63,7 @@ profiles:
   - align: left
     image: Ahasan_Ahamed.jpg
     content: >
-      Graduate Student (2023- ), Electrical Engineering <br>
+      Graduate Student, Electrical Engineering <br>
       Md. Ahasan Ahamed is a PhD candidate in Electrical Engineering at Penn State and a visiting scholar in the Guan Lab at Indiana University Bloomington, which he joined in Fall 2022. He develops isothermal assays integrated with solid-state nanopore sensors for point-of-care diagnostics. His interests include single molecule biophysics, molecular assay design, micro/nano fluidics, and point-of-care device fabrication; he holds an MS in Mechanical and Production Engineering from Konkuk University (2022) and a BSc from Bangladesh University of Engineering and Technology (2014), and served as an assistant professor at BUTEX from 2014 to 2020.<br><br>
       Scholer: <https://scholar.google.com/citations?user=elt2-ZsAAAAJ&hl=en> <br>
       LinkedIn: <www.linkedin.com/in/ahasanpsu> <br>
@@ -75,11 +75,53 @@ profiles:
   - align: left
     image: Ujwal_Jibhkate.png
     content: >
-      Graduate Student (2023- ), Data Science <br>
+      Graduate Student, Data Science <br>
       Ujwal Jibhkate is a Graduate Research Assistant in the Guan Lab and a Master of Science in Data Science student at Indiana University, Bloomington. He joined the lab in Fall 2025 and is currently working on developing foundation model applications for HIV RNA sequencing, with a specific focus on identifying Drug Resistance Mutations (DRMs). His research interests include applied AI in genomics, bioinformatics, and end-to-end MLOps for scientific research. Prior to joining the Guan Lab, he worked for two years as a Software Engineer at IBM and earned a Bachelor of Engineering in Electrical Engineering with minor in Computer Science from Ramdeobaba University, India.
     image_circular: false # crops the image to make it circular
     more_info: Ujwal Jibhkate
 
+
+
+
+  - align: left
+    image: Lakshmi Bhanu Aravind Nidamartyv.png
+    content: >
+      Graduate Student, Data Science <br>      
+    image_circular: false # crops the image to make it circular
+    more_info: Lakshmi Bhanu Aravind Nidamarty
+
+
+
+  - align: left
+    image: Xue Xiao.png
+    content: >
+      Graduate Student, Data Science <br>      
+    image_circular: false # crops the image to make it circular
+    more_info: Xue Xiao
+
+
+  - align: left
+    image: Aditya Bhausaheb Dhumal.png
+    content: >
+      Graduate Student, Data Science <br>      
+    image_circular: false # crops the image to make it circular
+    more_info: Aditya Bhausaheb Dhumal
+
+
+  - align: left
+    image: Angelo Ariel Gonzalez Cordova.png
+    content: >
+      Undergraduate Student, Data Science <br>      
+    image_circular: false # crops the image to make it circular
+    more_info: Angelo Ariel Gonzalez Cordova
+
+
+  - align: left
+    image: Jack Wember.png
+    content: >
+      Undergraduate Student, Data Science <br>      
+    image_circular: false # crops the image to make it circular
+    more_info: Jack Wember
 
 
 ---
