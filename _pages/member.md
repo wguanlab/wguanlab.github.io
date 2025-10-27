@@ -73,7 +73,7 @@ profiles:
     image: Ahasan_Ahamed.jpg
     content: >
       Ahasan Ahamed <br><br>
-      Graduate Student, Electrical Engineering <br><br>
+      Graduate Student<br><br>
       Md. Ahasan Ahamed is a PhD candidate in Electrical Engineering at Penn State and a visiting scholar in the Guan Lab at Indiana University Bloomington, which he joined in Fall 2022. He develops isothermal assays integrated with solid-state nanopore sensors for point-of-care diagnostics. His interests include single molecule biophysics, molecular assay design, micro-nano fluidics, and point-of-care device fabrication; he holds an MS in Mechanical and Production Engineering from Konkuk University (2022) and a BSc from Bangladesh University of Engineering and Technology (2014), and served as an assistant professor at BUTEX from 2014 to 2020.<br><br>
       Google Scholer: <https://scholar.google.com/citations?user=elt2-ZsAAAAJ&hl=en> <br>
       ORCID: <https://orcid.org/0009-0006-9962-2994> <br>
@@ -84,7 +84,7 @@ profiles:
     image: Ujwal_Jibhkate.png
     content: >
       Ujwal Jibhkate <br><br>
-      Graduate Student, Data Science <br><br>
+      Graduate Student<br><br>
       Ujwal Jibhkate is a Graduate Research Assistant in the Guan Lab and a Master of Science in Data Science student at Indiana University, Bloomington. He joined the lab in Fall 2025 and is currently working on developing foundation model applications for HIV RNA sequencing, with a specific focus on identifying Drug Resistance Mutations. His research interests include applied AI in genomics, bioinformatics, and end-to-end MLOps for scientific research. Prior to joining the Guan Lab, he worked for two years as a Software Engineer at IBM and earned a Bachelor of Engineering in Electrical Engineering with minor in Computer Science from Ramdeobaba University, India.
     image_circular: false # crops the image to make it circular
     more_info: 
@@ -93,7 +93,7 @@ profiles:
     image: IU.jpg
     content: >
       Lakshmi Bhanu Aravind Nidamarty <br><br>
-      Graduate Student, Data Science <br><br>      
+      Graduate Student<br><br>      
     image_circular: false # crops the image to make it circular
     more_info: 
 
@@ -101,7 +101,7 @@ profiles:
     image: IU.jpg
     content: >
       Xue Xiao <br><br>
-      Graduate Student, Data Science <br><br>     
+      Graduate Student<br><br>     
     image_circular: false # crops the image to make it circular
     more_info: 
 
@@ -109,7 +109,7 @@ profiles:
     image: IU.jpg
     content: >
       Aditya Bhausaheb Dhumal <br><br>
-      Graduate Student, Data Science <br><br>     
+      Graduate Student<br><br>     
     image_circular: false # crops the image to make it circular
     more_info: 
 
@@ -117,7 +117,7 @@ profiles:
     image: IU.jpg
     content: >
      Angelo Ariel Gonzalez Cordova <br><br>
-     Undergraduate Student, Data Science <br><br>      
+     Undergraduate Student<br><br>      
     image_circular: false # crops the image to make it circular
     more_info: Angelo Ariel Gonzalez Cordova
 
@@ -125,7 +125,7 @@ profiles:
     image: IU.jpg
     content: >
       Jack Wember <br><br>
-      Undergraduate Student, Data Science <br><br>      
+      Undergraduate Student<br><br>      
     image_circular: false # crops the image to make it circular
     more_info: 
 
