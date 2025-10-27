@@ -42,15 +42,15 @@ nav_order: 6
 
 ## Ph.D. Students
 
-| Name | Period | Additional Information |
+| Name | Graduated | Additional Information |
 |------|----------------|--------|
-| Aneesh Kshirsagar | Graduated Oct 2025 | **Dissertation**: Intelligent Point-Of-Need Genomic Systems For Real-Time Pathogen Surveillance. <br>**Next**: Postdoc, Indiana University Bloomington |
-| Anthony Politza | Graduated May 2025 | **Dissertation**: Addressing Challenges in Sample Preparation and Nucleic Acid Testing for Personalized HIV Diagnostics. <br>**Next**: Airbus US Space & Defense, Inc. |
-| Ming Dong | Graduated Dec 2024 | **Dissertation**: Addressing Reliability Challenges in Solid-State Nanopore Sensors for Robust Point-Of-Care Diagnostics. <br>**Next**: Huawei Technologies |
-| Tianyi_Liu | Graduated Oct 2024 | **Dissertation**: Advancing Integrated Nucleic Acid Testing for HIV Self-Testing and Personalized Viral Load Monitoring. <br>**Next**: Postdoc, Johns Hopkins |
-| Reza Nouri | Graduated Aug 2022 | **Dissertation**: Solid-state nanopore CRISPR-assisted diagnostic systems toward digital nucleic acid testing. <br>**Next**: Nationwide Children’s Hospital |
-| Zifan Tang | Graduated May 2022 | **Dissertation**: Digital solid-state nanopore fabrication and sensing towards integrated nucleic acid testing. <br>**Next**: Illumina Inc |
-| Gihoon Choi | Graduated May 2020 | **Dissertation**: Microfluidic molecular and cellular detection of malaria towards elimination. <br>**Next**: Sandia National Laboratories |
+| Aneesh Kshirsagar | Oct 2025 | **Dissertation**: Intelligent Point-Of-Need Genomic Systems For Real-Time Pathogen Surveillance. <br>**Next**: Postdoc, Indiana University Bloomington |
+| Anthony Politza | May 2025 | **Dissertation**: Addressing Challenges in Sample Preparation and Nucleic Acid Testing for Personalized HIV Diagnostics. <br>**Next**: Airbus US Space & Defense, Inc. |
+| Ming Dong | Dec 2024 | **Dissertation**: Addressing Reliability Challenges in Solid-State Nanopore Sensors for Robust Point-Of-Care Diagnostics. <br>**Next**: Huawei Technologies |
+| Tianyi_Liu | Oct 2024 | **Dissertation**: Advancing Integrated Nucleic Acid Testing for HIV Self-Testing and Personalized Viral Load Monitoring. <br>**Next**: Postdoc, Johns Hopkins |
+| Reza Nouri | Aug 2022 | **Dissertation**: Solid-state nanopore CRISPR-assisted diagnostic systems toward digital nucleic acid testing. <br>**Next**: Nationwide Children’s Hospital |
+| Zifan Tang | May 2022 | **Dissertation**: Digital solid-state nanopore fabrication and sensing towards integrated nucleic acid testing. <br>**Next**: Illumina Inc |
+| Gihoon Choi | May 2020 | **Dissertation**: Microfluidic molecular and cellular detection of malaria towards elimination. <br>**Next**: Sandia National Laboratories |
 
 ---
 
