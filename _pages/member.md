@@ -33,8 +33,8 @@ profiles:
   - align: left
     image: Asad_Khalid.jpg
     content: >
-      Asad Khalid, Ph.D. <br><br>
-      Postdoc<br><br>
+      Asad Khalid, Ph.D. <br>
+      Postdoc<br>
       Email: <askhalid@iu.edu> <br><br>
       Asad Khalid is a Postdoctoral Fellow in the Guan Lab at Indiana University Bloomington. He joined the lab in Spring 2023 and is currently working on developing ultrafast Plasmonic PCR technology for multiplexed detection of respiratory infections at point-of-care. His research interests include point-of-care molecular diagnostics, nanopore single-molecule analysis, and sensor-integrated microfluidic organs-on-chips. <br><br>
       Google Scholar: <https://scholar.google.com/citations?user=UGOfoPsAAAAJ&hl=en> <br>
@@ -45,26 +45,28 @@ profiles:
   - align: left
     image: Bingyuan_Guo.png
     content: >
-      Bingyuan Guo, Ph.D.<br><br>
-      Postdoc <br><br>
+      Bingyuan Guo, Ph.D.<br>
+      Postdoc <br>
       Email: <bingguo@iu.edu> <br><br>
-      Bingyuan Guo is a postdoctoral researcher in the Guan Lab at Department of Intelligent Systems, Indiana University Bloomington. He joined the lab in 2025 and is currently working on development of POCT platform for early diagnosis of Alzheimer’s disease. His research interests include point-of-care diagnostics, protein identification, mass transport through nanopore. Prior to joining the Guan Lab, he was research director of Guangzhou PoreSpect Ltd. and earned his Ph.D. in bioinorganic chemistry from Institute of High Energy Physics, Chinses Academy of Sciences in 2018. <br>
+      Bingyuan Guo is a postdoctoral researcher in the Guan Lab at Department of Intelligent Systems, Indiana University Bloomington. He joined the lab in 2025 and is currently working on development of POCT platform for early diagnosis of Alzheimer’s disease. His research interests include point-of-care diagnostics, protein identification, mass transport through nanopore. Prior to joining the Guan Lab, he was research director of Guangzhou PoreSpect Ltd. and earned his Ph.D. in bioinorganic chemistry from Institute of High Energy Physics, Chinses Academy of Sciences in 2018. <br><br>
     image_circular: false # crops the image to make it circular
     more_info: 
 
   - align: left
     image: Aneesh_Kshirsagar.jpg
     content: >
-      Aneesh Kshirsagar, Ph.D.<br><br>
-      Postdoc <br><br>
+      Aneesh Kshirsagar, Ph.D.<br>
+      Postdoc <br>
+      Email: <alk5897@psu.edu>> <br><br>
     image_circular: false # crops the image to make it circular
     more_info:  Aneesh Kshirsagar
 
   - align: left
     image: IU.jpg
     content: >
-      Tathagata "Tag" Pal, Ph.D.<br><br>
+      Tathagata "Tag" Pal, Ph.D.<br>
       Postdoc <br>
+      Email: TBD <br><br>
     image_circular: false # crops the image to make it circular
     more_info:  
 
@@ -72,8 +74,10 @@ profiles:
   - align: left
     image: Ahasan_Ahamed.jpg
     content: >
-      Ahasan Ahamed <br><br>
-      Graduate Student<br><br>
+      Ahasan Ahamed <br>
+      Graduate Student<br> 
+      Email: <mdahamed@iu.edu> <br><br>
+
       Md. Ahasan Ahamed is a PhD candidate in Electrical Engineering at Penn State and a visiting scholar in the Guan Lab at Indiana University Bloomington, which he joined in Fall 2022. He develops isothermal assays integrated with solid-state nanopore sensors for point-of-care diagnostics. His interests include single molecule biophysics, molecular assay design, micro-nano fluidics, and point-of-care device fabrication; he holds an MS in Mechanical and Production Engineering from Konkuk University (2022) and a BSc from Bangladesh University of Engineering and Technology (2014), and served as an assistant professor at BUTEX from 2014 to 2020.<br><br>
       Google Scholer: <https://scholar.google.com/citations?user=elt2-ZsAAAAJ&hl=en> <br>
       ORCID: <https://orcid.org/0009-0006-9962-2994> <br>
@@ -83,17 +87,20 @@ profiles:
   - align: left
     image: Ujwal_Jibhkate.png
     content: >
-      Ujwal Jibhkate <br><br>
+      Ujwal Jibhkate <br>
       Graduate Student<br><br>
-      Ujwal Jibhkate is a Graduate Research Assistant in the Guan Lab and a Master of Science in Data Science student at Indiana University, Bloomington. He joined the lab in Fall 2025 and is currently working on developing foundation model applications for HIV RNA sequencing, with a specific focus on identifying Drug Resistance Mutations. His research interests include applied AI in genomics, bioinformatics, and end-to-end MLOps for scientific research. Prior to joining the Guan Lab, he worked for two years as a Software Engineer at IBM and earned a Bachelor of Engineering in Electrical Engineering with minor in Computer Science from Ramdeobaba University, India.
+      Email: <ujibhkat@iu.edu> <br><br>
+
+      Ujwal Jibhkate is a Graduate Research Assistant in the Guan Lab and a Master of Science in Data Science student at Indiana University, Bloomington. He joined the lab in Fall 2025 and is currently working on developing foundation model applications for HIV RNA sequencing, with a specific focus on identifying Drug Resistance Mutations. His research interests include applied AI in genomics, bioinformatics, and end-to-end MLOps for scientific research. Prior to joining the Guan Lab, he worked for two years as a Software Engineer at IBM and earned a Bachelor of Engineering in Electrical Engineering with minor in Computer Science from Ramdeobaba University, India.<br><br>
     image_circular: false # crops the image to make it circular
     more_info: 
 
   - align: left
     image: IU.jpg
     content: >
-      Lakshmi Bhanu Aravind Nidamarty <br><br>
-      Graduate Student<br><br>      
+      Lakshmi Bhanu Aravind Nidamarty <br>
+      Graduate Student<br>
+      Email: <lnidama@iu.edu> <br><br>   
     image_circular: false # crops the image to make it circular
     more_info: 
 
@@ -101,7 +108,8 @@ profiles:
     image: IU.jpg
     content: >
       Xue Xiao <br><br>
-      Graduate Student<br><br>     
+      Graduate Student<br>
+      Email: <xuexiao@iu.edu> <br><br>    
     image_circular: false # crops the image to make it circular
     more_info: 
 
@@ -109,15 +117,17 @@ profiles:
     image: IU.jpg
     content: >
       Aditya Bhausaheb Dhumal <br><br>
-      Graduate Student<br><br>     
+      Graduate Student<br><br>
+      Email: <addhumal@iu.edu> <br><br>     
     image_circular: false # crops the image to make it circular
     more_info: 
 
   - align: left
     image: IU.jpg
     content: >
-     Angelo Ariel Gonzalez Cordova <br><br>
-     Undergraduate Student<br><br>      
+     Angelo Ariel Gonzalez Cordova <br>
+     Undergraduate Student<br>
+     Email: <ag38@iu.edu> <br><br>     
     image_circular: false # crops the image to make it circular
     more_info: Angelo Ariel Gonzalez Cordova
 
@@ -125,7 +135,8 @@ profiles:
     image: IU.jpg
     content: >
       Jack Wember <br><br>
-      Undergraduate Student<br><br>      
+      Undergraduate Student<br>
+      Email: <jwember@iu.edu> <br><br>     
     image_circular: false # crops the image to make it circular
     more_info: 
 
