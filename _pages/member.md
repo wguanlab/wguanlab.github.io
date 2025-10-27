@@ -33,90 +33,101 @@ profiles:
   - align: left
     image: Asad_Khalid.jpg
     content: >
+      Asad Khalid, Ph.D. <br><br>
       Postdoc<br><br>
       Email: <askhalid@iu.edu> <br><br>
       Asad Khalid is a Postdoctoral Fellow in the Guan Lab at Indiana University Bloomington. He joined the lab in Spring 2023 and is currently working on developing ultrafast Plasmonic PCR technology for multiplexed detection of respiratory infections at point-of-care. His research interests include point-of-care molecular diagnostics, nanopore single-molecule analysis, and sensor-integrated microfluidic organs-on-chips. <br><br>
       Google Scholar: <https://scholar.google.com/citations?user=UGOfoPsAAAAJ&hl=en> <br>
       ORCID: <https://orcid.org/0000-0001-5926-1764> <br>
     image_circular: false # crops the image to make it circular
-    more_info: Asad Khalid, Ph.D.
+    more_info: 
 
   - align: left
     image: Bingyuan_Guo.png
     content: >
+      Bingyuan Guo, Ph.D.<br><br>
       Postdoc <br><br>
       Email: <bingguo@iu.edu> <br><br>
       Bingyuan Guo is a postdoctoral researcher in the Guan Lab at Department of Intelligent Systems, Indiana University Bloomington. He joined the lab in 2025 and is currently working on development of POCT platform for early diagnosis of Alzheimer’s disease. His research interests include point-of-care diagnostics, protein identification, mass transport through nanopore. Prior to joining the Guan Lab, he was research director of Guangzhou PoreSpect Ltd. and earned his Ph.D. in bioinorganic chemistry from Institute of High Energy Physics, Chinses Academy of Sciences in 2018. <br>
     image_circular: false # crops the image to make it circular
-    more_info: Bingyuan Guo, Ph.D.
+    more_info: 
 
   - align: left
     image: Aneesh_Kshirsagar.jpg
     content: >
+      Aneesh Kshirsagar, Ph.D.<br><br>
       Postdoc <br><br>
     image_circular: false # crops the image to make it circular
     more_info:  Aneesh Kshirsagar
 
   - align: left
-    image: Tathagata_Pal.jpg
+    image: IU.jpg
     content: >
+      Tathagata "Tag" Pal, Ph.D.<br><br>
       Postdoc <br>
     image_circular: false # crops the image to make it circular
-    more_info:  Tathagata "Tag" Pal
+    more_info:  
 
 
   - align: left
     image: Ahasan_Ahamed.jpg
     content: >
+      Ahasan Ahamed <br><br>
       Graduate Student, Electrical Engineering <br><br>
       Md. Ahasan Ahamed is a PhD candidate in Electrical Engineering at Penn State and a visiting scholar in the Guan Lab at Indiana University Bloomington, which he joined in Fall 2022. He develops isothermal assays integrated with solid-state nanopore sensors for point-of-care diagnostics. His interests include single molecule biophysics, molecular assay design, micro-nano fluidics, and point-of-care device fabrication; he holds an MS in Mechanical and Production Engineering from Konkuk University (2022) and a BSc from Bangladesh University of Engineering and Technology (2014), and served as an assistant professor at BUTEX from 2014 to 2020.<br><br>
       Google Scholer: <https://scholar.google.com/citations?user=elt2-ZsAAAAJ&hl=en> <br>
       ORCID: <https://orcid.org/0009-0006-9962-2994> <br>
     image_circular: false # crops the image to make it circular
-    more_info: Ahasan Ahamed
+    more_info: 
   
   - align: left
     image: Ujwal_Jibhkate.png
     content: >
+      Ujwal Jibhkate <br><br>
       Graduate Student, Data Science <br><br>
       Ujwal Jibhkate is a Graduate Research Assistant in the Guan Lab and a Master of Science in Data Science student at Indiana University, Bloomington. He joined the lab in Fall 2025 and is currently working on developing foundation model applications for HIV RNA sequencing, with a specific focus on identifying Drug Resistance Mutations. His research interests include applied AI in genomics, bioinformatics, and end-to-end MLOps for scientific research. Prior to joining the Guan Lab, he worked for two years as a Software Engineer at IBM and earned a Bachelor of Engineering in Electrical Engineering with minor in Computer Science from Ramdeobaba University, India.
     image_circular: false # crops the image to make it circular
-    more_info: Ujwal Jibhkate
+    more_info: 
 
   - align: left
     image: IU.jpg
     content: >
+      Lakshmi Bhanu Aravind Nidamarty <br><br>
       Graduate Student, Data Science <br><br>      
     image_circular: false # crops the image to make it circular
-    more_info: Lakshmi Bhanu Aravind Nidamarty
+    more_info: 
 
   - align: left
     image: IU.jpg
     content: >
+      Xue Xiao <br><br>
       Graduate Student, Data Science <br><br>     
     image_circular: false # crops the image to make it circular
-    more_info: Xue Xiao
+    more_info: 
 
   - align: left
     image: IU.jpg
     content: >
+      Aditya Bhausaheb Dhumal <br><br>
       Graduate Student, Data Science <br><br>     
     image_circular: false # crops the image to make it circular
-    more_info: Aditya Bhausaheb Dhumal
+    more_info: 
 
   - align: left
     image: IU.jpg
     content: >
-      Undergraduate Student, Data Science <br><br>      
+     Angelo Ariel Gonzalez Cordova <br><br>
+     Undergraduate Student, Data Science <br><br>      
     image_circular: false # crops the image to make it circular
     more_info: Angelo Ariel Gonzalez Cordova
 
   - align: left
     image: IU.jpg
     content: >
+      Jack Wember <br><br>
       Undergraduate Student, Data Science <br><br>      
     image_circular: false # crops the image to make it circular
-    more_info: Jack Wember
+    more_info: 
 
 ---
 
