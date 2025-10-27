@@ -35,7 +35,11 @@ profiles:
     image: Asad_Khalid.jpg
     content: >
       Postdoc (2023- ) <br>
-      Email: askhalid@iu.edu
+      Email: askhalid@iu.edu <br>
+      Asad Khalid is a Postdoctoral Fellow in the Guan Lab at Indiana University Bloomington. He joined the lab in Spring 2023 and is currently working on developing ultrafast Plasmonic PCR technology for multiplexed detection of respiratory infections at point-of-care. His research interests include point-of-care molecular diagnostics, nanopore single-molecule analysis, and sensor-integrated microfluidic organs-on-chips. <br>
+      Google Scholar: https://scholar.google.com/citations?user=UGOfoPsAAAAJ&hl=en <br>
+      ORCID: https://orcid.org/0000-0001-5926-1764 <br>
+
     image_circular: false # crops the image to make it circular
     more_info: Asad Khalid, Ph.D.
 
