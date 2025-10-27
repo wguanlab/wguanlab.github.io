@@ -59,7 +59,7 @@ profiles:
       Postdoc <br>
       Email: <alk5897@psu.edu>> <br><br>
     image_circular: false # crops the image to make it circular
-    more_info:  Aneesh Kshirsagar
+    more_info:
 
   - align: left
     image: IU.jpg
@@ -88,7 +88,7 @@ profiles:
     image: Ujwal_Jibhkate.png
     content: >
       Ujwal Jibhkate <br>
-      Graduate Student<br><br>
+      Graduate Student<br>
       Email: <ujibhkat@iu.edu> <br><br>
 
       Ujwal Jibhkate is a Graduate Research Assistant in the Guan Lab and a Master of Science in Data Science student at Indiana University, Bloomington. He joined the lab in Fall 2025 and is currently working on developing foundation model applications for HIV RNA sequencing, with a specific focus on identifying Drug Resistance Mutations. His research interests include applied AI in genomics, bioinformatics, and end-to-end MLOps for scientific research. Prior to joining the Guan Lab, he worked for two years as a Software Engineer at IBM and earned a Bachelor of Engineering in Electrical Engineering with minor in Computer Science from Ramdeobaba University, India.<br><br>
@@ -108,7 +108,7 @@ profiles:
   - align: left
     image: Xue Xiao.jpg
     content: >
-      Xue Xiao <br><br>
+      Xue Xiao <br>
       Graduate Student<br>
       Email: <xuexiao@iu.edu> <br><br>
       Xue Xiao is a research assistant in the Guan Lab at Indiana University - Bloomington. She joined the lab in Fall 2025 and is currently developing AI-driven pipelines for real-time HIV drug resistance prediction using Nanopore sequencing and Stanford HIVDB data. Her research interests include AI-driven genomics and computational modeling.  <br><br>
@@ -118,8 +118,8 @@ profiles:
   - align: left
     image: IU.jpg
     content: >
-      Aditya Bhausaheb Dhumal <br><br>
-      Graduate Student<br><br>
+      Aditya Bhausaheb Dhumal <br>
+      Graduate Student<br>
       Email: <addhumal@iu.edu> <br><br>     
     image_circular: false # crops the image to make it circular
     more_info: 
@@ -131,12 +131,12 @@ profiles:
      Undergraduate Student<br>
      Email: <ag38@iu.edu> <br><br>     
     image_circular: false # crops the image to make it circular
-    more_info: Angelo Ariel Gonzalez Cordova
+    more_info:
 
   - align: left
     image: IU.jpg
     content: >
-      Jack Wember <br><br>
+      Jack Wember <br>
       Undergraduate Student<br>
       Email: <jwember@iu.edu> <br><br>     
     image_circular: false # crops the image to make it circular
