@@ -53,10 +53,18 @@ profiles:
   - align: left
     image: Aneesh_Kshirsagar.jpg
     content: >
-      Ph.D. Students, Electrical Engineering <br>
+      Postdoc <br>
     image_circular: false # crops the image to make it circular
     more_info:  Aneesh Kshirsagar
-     
+
+  - align: left
+    image: Tathagata_Pal.jpg
+    content: >
+      Postdoc <br>
+    image_circular: false # crops the image to make it circular
+    more_info:  Tathagata "Tag" Pal
+
+
   - align: left
     image: Ahasan_Ahamed.jpg
     content: >
@@ -77,35 +85,35 @@ profiles:
     more_info: Ujwal Jibhkate
 
   - align: left
-    image: Lakshmi Bhanu Aravind Nidamartyv.png
+    image: IU.jpg
     content: >
       Graduate Student, Data Science <br>      
     image_circular: false # crops the image to make it circular
     more_info: Lakshmi Bhanu Aravind Nidamarty
 
   - align: left
-    image: Xue Xiao.png
+    image: IU.jpg
     content: >
       Graduate Student, Data Science <br>      
     image_circular: false # crops the image to make it circular
     more_info: Xue Xiao
 
   - align: left
-    image: Aditya Bhausaheb Dhumal.png
+    image: IU.jpg
     content: >
       Graduate Student, Data Science <br>      
     image_circular: false # crops the image to make it circular
     more_info: Aditya Bhausaheb Dhumal
 
   - align: left
-    image: Angelo Ariel Gonzalez Cordova.png
+    image: IU.jpg
     content: >
       Undergraduate Student, Data Science <br>      
     image_circular: false # crops the image to make it circular
     more_info: Angelo Ariel Gonzalez Cordova
 
   - align: left
-    image: Jack Wember.png
+    image: IU.jpg
     content: >
       Undergraduate Student, Data Science <br>      
     image_circular: false # crops the image to make it circular

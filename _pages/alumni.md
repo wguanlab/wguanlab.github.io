@@ -44,6 +44,7 @@ nav_order: 6
 
 | Name | Period | Additional Information |
 |------|----------------|--------|
+| Aneesh Kshirsagar | Graduated Oct 2025 | **Dissertation**: Intelligent Point-Of-Need Genomic Systems For Real-Time Pathogen Surveillance. <br>**Next**: Postdoc, Indiana University Bloomington |
 | Anthony Politza | Graduated May 2025 | **Dissertation**: Addressing Challenges in Sample Preparation and Nucleic Acid Testing for Personalized HIV Diagnostics. <br>**Next**: Airbus US Space & Defense, Inc. |
 | Ming Dong | Graduated Dec 2024 | **Dissertation**: Addressing Reliability Challenges in Solid-State Nanopore Sensors for Robust Point-Of-Care Diagnostics. <br>**Next**: Huawei Technologies |
 | Tianyi_Liu | Graduated Oct 2024 | **Dissertation**: Advancing Integrated Nucleic Acid Testing for HIV Self-Testing and Personalized Viral Load Monitoring. <br>**Next**: Postdoc, Johns Hopkins |
