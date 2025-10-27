@@ -48,8 +48,10 @@ profiles:
     content: >
       Postdoc <br>
       Email: <bingguo@iu.edu>  <br><br>
+      Bingyuan Guo is a postdoctoral researcher in the Guan Lab at Department of Intelligent Systems, Indiana University Bloomington. He joined the lab in 2025 and is currently working on development of POCT platform for early diagnosis of Alzheimer’s disease. His research interests include point-of-care diagnostics, protein identification, mass transport through nanopore. Prior to joining the Guan Lab, he was research director of Guangzhou PoreSpect Ltd. and earned his Ph.D. in bioinorganic chemistry from Institute of High Energy Physics, Chinses Academy of Sciences in 2018. <br>
     image_circular: false # crops the image to make it circular
     more_info: Bingyuan Guo, Ph.D.
+
 
 
   - align: left
