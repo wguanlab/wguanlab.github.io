@@ -96,20 +96,22 @@ profiles:
     more_info: 
 
   - align: left
-    image: IU.jpg
+    image: Lakshmi Bhanu Aravind Nidamarty.jpg
     content: >
       Lakshmi Bhanu Aravind Nidamarty <br>
       Graduate Student<br>
-      Email: <lnidama@iu.edu> <br><br>   
+      Email: <lnidama@iu.edu> <br><br> 
+      Lakshmi Bhanu Aravind Nidamarty is a Graduate Research Assistant in the Guan Lab at Indiana University Bloomington. He joined the lab in Fall 2025 and is currently working on AI Enhanced Nanopore Sequencing project . His research interests include computational biology, machine learning for bioinformatics, and LLMs for healthcare. Prior to joining the Guan Lab, he earned a Bachelor of Technology in Mechanical Engineering from SASTRA University and worked as a Data Analyst for over a year from 2023 to 2024. <br><br>
     image_circular: false # crops the image to make it circular
     more_info: 
 
   - align: left
-    image: IU.jpg
+    image: Xue Xiao.jpg
     content: >
       Xue Xiao <br><br>
       Graduate Student<br>
-      Email: <xuexiao@iu.edu> <br><br>    
+      Email: <xuexiao@iu.edu> <br><br>
+      Xue Xiao is a research assistant in the Guan Lab at Indiana University - Bloomington. She joined the lab in Fall 2025 and is currently developing AI-driven pipelines for real-time HIV drug resistance prediction using Nanopore sequencing and Stanford HIVDB data. Her research interests include AI-driven genomics and computational modeling.  <br><br>
     image_circular: false # crops the image to make it circular
     more_info: 
 
