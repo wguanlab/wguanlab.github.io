@@ -13,22 +13,24 @@ profiles:
   - align: left
     image: Weihua_Guan.jpg
     content:  >
-      Dr. Guan received his Ph.D. in Electrical Engineering from Yale University in 2013, followed by postdoctoral training in Biomedical Engineering at Johns Hopkins University from 2013 to 2014. From January 2015 to December 2024, he served as a faculty member in the Departments of Electrical Engineering (EE) and Biomedical Engineering (BME) at Penn State. In January 2025, he joined the Intelligent Systems Engineering Department at Indiana University Bloomington as a Full Professor. <br>
-
-      <br>
-
-      Dr. Guan’s research focuses on the interdisciplinary areas of micro- and nanotechnology, micro/nanofluidics, bioMEMS, lab-on-a-chip devices, and point-of-care diagnostics. His group develops micro- and nanoscale devices and novel sensing principles to advance medical diagnostics and testing. His work aims to drive innovations in biomedical technologies with the potential to transform disease diagnosis and treatment. <br>
-
-      <br>
-
-      Beyond his research, Dr. Guan is actively involved in the scientific community. He is a Senior Member of IEEE, a Member of BMES, the Biophysical Society, and AAAS. Since 2019, he has served as an Associate Editor for Nanotechnology and Precision Engineering and has been a member of the Editorial Board of Diagnostics since 2017. Additionally, he serves as a frequent reviewer for over 30 academic journals and federal funding agencies, including NSF and NIH. Dr. Guan’s contributions to the field have been recognized with numerous prestigious awards and honors, including the HHMI International Research Fellowship and the NSF CAREER Award.
-    image_circular: false # crops the image to make it circular
-    more_info: >
       Weihua (Wei) Guan, Ph.D. <br>
-      Professor  <br>
-      Department of Intelligent Systems Engineering  <br>
+      Professor and Interim Chair, Department of Intelligent Systems Engineering <br>
       Luddy School of Informatics, Computing, and Engineering  <br>
-      Email: guanw@iu.edu
+      Email: guanw@iu.edu <br><br>
+
+
+      Prof. Guan received his Ph.D. in Electrical Engineering from Yale University and subsequently completed postdoctoral training in Biomedical Engineering at Johns Hopkins University. He  joined the faculty in the at Penn State University, where he held appointments in both Electrical Engineering and Biomedical Engineering before moving to Indiana University Bloomington, where he is a Full Professor in the Department of Intelligent Systems Engineering. <br>
+
+      <br>
+
+      Prof. Guan’s research focuses on the interdisciplinary areas of micro- and nanotechnology, micro/nanofluidics, bioMEMS, lab-on-a-chip devices, and point-of-care diagnostics. His group develops micro- and nanoscale devices and novel sensing principles to advance medical diagnostics and testing. His work aims to drive innovations in biomedical technologies with the potential to transform disease diagnosis and treatment. <br>
+
+      <br>
+
+      In addition to his research, Prof. Guan is deeply engaged with the scientific community. He is a Senior Member of IEEE and an active member of BMES, SPIE, the Biophysical Society, and AAAS. He serves as an Associate Editor for Nanotechnology and Precision Engineering and sits on the Editorial Board of Diagnostics. A frequent reviewer for major scientific journals and funding agencies such as NSF and NIH, Prof. Guan has contributed significantly to advancing the frontiers of biomedical engineering. His research excellence has been recognized through numerous prestigious honors, including the HHMI International Research Fellowship and the NSF CAREER Award.
+    image_circular: false # crops the image to make it circular
+    more_info: 
+
 
   - align: left
     image: Asad_Khalid.jpg
