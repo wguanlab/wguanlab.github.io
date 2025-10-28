@@ -138,11 +138,14 @@ profiles:
     more_info:
 
   - align: left
-    image: IU.jpg
+    image: Jack Wember.jpg
     content: >
       Jack Wember <br>
       Undergraduate Student<br>
-      Email: <jwember@iu.edu> <br><br>     
+      Email: <jwember@iu.edu> <br><br>   
+      Jack Wember is an Undergrad Researcher in the Guan Lab at Indiana University Bloomington who is studying Computer Science with a specialization in Software Engineering. He joined the lab in Fall 2025 and is working on hardware implementation of sequencing using Nvidia Jetson Orin Developer kits, while also helping develop portable nanopore sequencing platforms for point-of-need diagnostics. His research interests include embedded systems for biomedical applications, GPU-accelerated bioinformatics, and portable diagnostic technologies.
+      
+      
     image_circular: false # crops the image to make it circular
     more_info: 
 
