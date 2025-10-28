@@ -28,7 +28,7 @@ profiles:
     image: Asad_Khalid.jpg
     content: >
       Asad Khalid, Ph.D. <br>
-      Postdoc<br>
+      Postdoctoral Fellow <br>
       Email: <askhalid@iu.edu> <br><br>
       Asad Khalid is a Postdoctoral Fellow in the Guan Lab at Indiana University Bloomington. He joined the lab in Spring 2023 and is currently working on developing ultrafast Plasmonic PCR technology for multiplexed detection of respiratory infections at point-of-care. His research interests include point-of-care molecular diagnostics, nanopore single-molecule analysis, and sensor-integrated microfluidic organs-on-chips. <br><br>
       Google Scholar: <https://scholar.google.com/citations?user=UGOfoPsAAAAJ&hl=en> <br>
@@ -40,7 +40,7 @@ profiles:
     image: Bingyuan_Guo.png
     content: >
       Bingyuan Guo, Ph.D.<br>
-      Postdoc <br>
+      Postdoctoral Fellow <br>
       Email: <bingguo@iu.edu> <br><br>
       Bingyuan Guo is a postdoctoral researcher in the Guan Lab at Department of Intelligent Systems, Indiana University Bloomington. He joined the lab in 2025 and is currently working on development of POCT platform for early diagnosis of Alzheimer’s disease. His research interests include point-of-care diagnostics, protein identification, mass transport through nanopore. Prior to joining the Guan Lab, he was research director of Guangzhou PoreSpect Ltd. and earned his Ph.D. in bioinorganic chemistry from Institute of High Energy Physics, Chinses Academy of Sciences in 2018. <br><br>
     image_circular: false # crops the image to make it circular
@@ -50,7 +50,7 @@ profiles:
     image: Aneesh_Kshirsagar.jpg
     content: >
       Aneesh Kshirsagar, Ph.D.<br>
-      Postdoc <br>
+      Postdoctoral Fellow <br>
       Email: <alk5897@psu.edu> <br><br>
     image_circular: false # crops the image to make it circular
     more_info:
@@ -59,7 +59,7 @@ profiles:
     image: IU.jpg
     content: >
       Tathagata "Tag" Pal, Ph.D.<br>
-      Postdoc <br>
+      Postdoctoral Fellow <br>
       Email: TBD <br><br>
     image_circular: false # crops the image to make it circular
     more_info:  
