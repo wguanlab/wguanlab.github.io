@@ -14,7 +14,6 @@ profiles:
     image: Weihua_Guan.jpg
     content:  >
       Weihua (Wei) Guan, Ph.D.<br>
-      Principal Investigator <br>
       Professor and Interim Chair, Department of Intelligent Systems Engineering <br>
       Luddy School of Informatics, Computing, and Engineering  <br>
       Email: <guanw@iu.edu> <br><br>
