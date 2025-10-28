@@ -113,20 +113,27 @@ profiles:
     more_info: 
 
   - align: left
-    image: IU.jpg
+    image: Aditya Bhausaheb Dhumal.jpg
     content: >
       Aditya Bhausaheb Dhumal <br>
       Graduate Student<br>
-      Email: <addhumal@iu.edu> <br><br>     
+      Email: <addhumal@iu.edu> <br><br>    
+      Aditya Dhumal is a Research Assistant in the Computer Science Department at Indiana University Bloomington and a Master of Science in Computer Science student. He joined the lab in Fall 2025 and is currently working on nanopore sequencing automation and genomic large language models, focusing on building real-time bioinformatics pipelines and AI-driven genomic analysis systems. His research interests include genomic LLMs, edge computing for bioinformatics, and intelligent automation in scientific workflows. In addition to his academic research, he also works as an AI/ML Engineer at Blackwood Solutions, developing edge AI systems and computer vision pipelines for real-world deployment. Prior to joining Indiana University, he earned a Bachelor of Engineering in Artificial Intelligence and Data Science from Savitribai Phule Pune University in 2024.
+      
     image_circular: false # crops the image to make it circular
     more_info: 
 
   - align: left
-    image: IU.jpg
+    image: Angelo Gonzalez.jpg
     content: >
-     Angelo Ariel Gonzalez Cordova <br>
+     Angelo Gonzalez <br>
      Undergraduate Student<br>
-     Email: <ag38@iu.edu> <br><br>     
+     Email: <ag38@iu.edu> <br>
+     Contact: <https://www.linkedin.com/in/angelo-gonza>  <br>
+     github: <https://www.github.com/gelogonza>  <br>
+     personal website: <https://www.angelogonza.com>  <br><br>  
+     Angelo Gonzalez is an informatics major currently working on an AI-Based Prediction of HIV Drug Resistance in the Guan Lab at Indiana University Bloomington. He joined the lab in Fall 2025 and is currently working on parsing the HIVDB XML, unifying a dataset, and training and evaluating a baseline model. His research interests include mutations and nanopore sensing.
+     
     image_circular: false # crops the image to make it circular
     more_info:
 
