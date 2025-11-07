@@ -136,7 +136,6 @@ profiles:
      Angelo Gonzalez <br>
      Undergraduate Student<br>
      Email: <ag38@iu.edu> <br>
-     Contact: <https://www.linkedin.com/in/angelo-gonza>  <br>
      github: <https://www.github.com/gelogonza>  <br>
      personal website: <https://www.angelogonza.com>  <br><br>  
      Angelo Gonzalez is an informatics major currently working on an AI-Based Prediction of HIV Drug Resistance in the Guan Lab at Indiana University Bloomington. He joined the lab in Fall 2025 and is currently working on parsing the HIVDB XML, unifying a dataset, and training and evaluating a baseline model. His research interests include mutations and nanopore sensing.
