@@ -54,7 +54,7 @@ profiles:
       Aneesh Kshirsagar, Ph.D.<br>
       Postdoctoral Fellow <br>
       Email: <anekshir@iu.edu> <br>
-      ORCID: https://orcid.org/0000-0003-2288-5439  <br><br>
+      ORCID: <https://orcid.org/0000-0003-2288-5439>  <br><br>
       Aneesh is currently developing next-generation, AI-augmented bioinformatics pipelines that enable real-time, adaptive analysis of Oxford Nanopore sequencing data to directly inform therapeutic decision-making and dynamically adjust treatment strategies. His research interests include integrated biosensing instrumentation, point-of-care diagnostics, microfluidics, and translational multi-omics. He earned his Ph.D. in Electrical Engineering from The Pennsylvania State University, where his work focused on intelligent genomic systems for pathogen surveillance. Outside of work, he enjoys hiking scenic trails, camping under the stars, and is an avid tennis player and passionate coffee brewer.
 
     image_circular: false # crops the image to make it circular
@@ -66,7 +66,7 @@ profiles:
       Tathagata "Tag" Pal, Ph.D.<br>
       Postdoctoral Fellow <br>
       Email: <palta@iu.edu> <br>
-      Google Scholar: https://scholar.google.co.in/citations?user=HivxTKcAAAAJ&hl=en <br><br>
+      Google Scholar: <https://scholar.google.co.in/citations?user=HivxTKcAAAAJ&hl=en> <br><br>
 
       Tathagata “Tag” Pal is a postdoctoral researcher in Guan Lab. He is developing CRISPR-associated nanopore technology to improve the figure of merit and enable molecular-level performance evaluation and quality control of CRISPR-Cas systems. His research interests include nanopore technology, CRISPR-associated systems, and bioelectronic interfaces for molecular precision analysis. He earned his Ph.D. in Biomedical Engineering from the Indian Institute of Technology Bombay and M.Tech. in Nanotechnology from the Indian Institute of Technology Roorkee.
     image_circular: false # crops the image to make it circular
