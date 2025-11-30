@@ -44,13 +44,13 @@ nav_order: 6
 
 | Name | Graduated | Additional Information |
 |------|----------------|--------|
-| Aneesh Kshirsagar | Oct 2025 | **Dissertation**: Intelligent Point-Of-Need Genomic Systems For Real-Time Pathogen Surveillance. <br>**Next**: Postdoc, Indiana University Bloomington |
-| Anthony Politza | May 2025 | **Dissertation**: Addressing Challenges in Sample Preparation and Nucleic Acid Testing for Personalized HIV Diagnostics. <br>**Next**: Airbus US Space & Defense, Inc. |
-| Ming Dong | Dec 2024 | **Dissertation**: Addressing Reliability Challenges in Solid-State Nanopore Sensors for Robust Point-Of-Care Diagnostics. <br>**Next**: Huawei Technologies |
-| Tianyi_Liu | Oct 2024 | **Dissertation**: Advancing Integrated Nucleic Acid Testing for HIV Self-Testing and Personalized Viral Load Monitoring. <br>**Next**: Postdoc, Johns Hopkins |
-| Reza Nouri | Aug 2022 | **Dissertation**: Solid-state nanopore CRISPR-assisted diagnostic systems toward digital nucleic acid testing. <br>**Next**: Nationwide Children’s Hospital |
-| Zifan Tang | May 2022 | **Dissertation**: Digital solid-state nanopore fabrication and sensing towards integrated nucleic acid testing. <br>**Next**: Illumina Inc |
-| Gihoon Choi | May 2020 | **Dissertation**: Microfluidic molecular and cellular detection of malaria towards elimination. <br>**Next**: Sandia National Laboratories |
+| Aneesh Kshirsagar | Oct 2025 | **Dissertation**: [Intelligent Point-Of-Need Genomic Systems For Real-Time Pathogen Surveillance.] <br>**Next**: Postdoc, Indiana University Bloomington |
+| Anthony Politza | May 2025 | **Dissertation**: [Addressing Challenges in Sample Preparation and Nucleic Acid Testing for Personalized HIV Diagnostics.] (https://etda.libraries.psu.edu/catalog/26983ajp6126) <br>**Next**: Airbus US Space & Defense, Inc. |
+| Ming Dong | Dec 2024 | **Dissertation**: [Addressing Reliability Challenges in Solid-State Nanopore Sensors for Robust Point-Of-Care Diagnostics.](https://etda.libraries.psu.edu/catalog/20465mkd5669) <br>**Next**: Huawei Technologies |
+| Tianyi_Liu | Oct 2024 | **Dissertation**: [Advancing Integrated Nucleic Acid Testing for HIV Self-Testing and Personalized Viral Load Monitoring.](https://etda.libraries.psu.edu/catalog/21321tpl5215) <br>**Next**: Postdoc, Johns Hopkins |
+| Reza Nouri | Aug 2022 | **Dissertation**: [Solid-state nanopore CRISPR-assisted diagnostic systems toward digital nucleic acid testing.](https://etda.libraries.psu.edu/catalog/21114rzn93) <br>**Next**: Nationwide Children’s Hospital |
+| Zifan Tang | May 2022 | **Dissertation**: [Digital solid-state nanopore fabrication and sensing towards integrated nucleic acid testing.](https://etda.libraries.psu.edu/catalog/19328zxt34) <br>**Next**: Illumina Inc |
+| Gihoon Choi | May 2020 | **Dissertation**: [Microfluidic molecular and cellular detection of malaria towards elimination.](https://etda.libraries.psu.edu/catalog/17981gmc5400) <br>**Next**: Sandia National Laboratories |
 
 ---
 
