@@ -7,6 +7,7 @@ nav: true
 nav_order: 3
 ---
 
+- Muhammad Asad Ullah Khalid, Weihua Guan, Solid State Nanopore Counting Enables Rapid DNA Fragment Assessment for Mobile Genomic Analysis, Biophysical Society Annual Meeting, San Francisco, CA, 2026
 - Muhammad Asad Ullah Khalid, Md Ahasan Ahamed, Ming Dong, Aneesh Kshirsagar, and Weihua Guan, A Hydrogel-Interfaced Nanopore System for Sub-100 bp Nucleic Acid Sizing and Multiplexed Virus Detection, BMES Annual Meeting, San Diego, CA, 2025
 - Md Ahasan Ahamed, Zhikun Zhang, Aneesh Kshirsagar, Anthony J. Politza, Feng Guo, and Weihua Guan, Quantitative Detection of Severe COVID-19 in Children via Multiplex Salivary miRNA Profiling Using Ligation-RPA, BMES Annual Meeting, San Diego, CA, 2025
 - Aneesh Kshirsagar, Anthony J. Politza, Ming Dong, and Weihua Guan, Remotely Controlled Continuous Surveillance of Viral RNAs in Wastewater via LoRa Network, BMES Annual Meeting, San Diego, CA, 2025
