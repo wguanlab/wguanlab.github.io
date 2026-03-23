@@ -7,7 +7,6 @@ nav: true
 nav_order: 7
 ---
 
-
 ## Electronics
 
 - Keithley 2636B SourceMeter
@@ -22,6 +21,7 @@ nav_order: 7
 - Various National Instrument Daq Cards and Terminal Blocks
 - Various DC Power Sources
 - TMC Vibration Isolation Table 4 by 6
+- Digidata® 1550B digitizer with Axon pCLAMP 11 Software Suite
 
 ---
 
@@ -30,6 +30,8 @@ nav_order: 7
 - Nikon inverted microscope Eclipse Ti-U with Epi-Fluo with scanning stage
 - Stereo Zoom Microscope
 - Ocean Optics STS-VIS Spectrometer
+- Ocean SR4 VIS-NIR Spectrometer
+- Dino-Light digital microscope
 - In-house built confocal imaging system for both DIC and fluorescent imaging
 - Hamamatsu ORCA-Flash4.0 LT Scientific CMOS Camera
 - Two optical tables (4 by 8) for sensitive optical measurements
@@ -40,8 +42,8 @@ nav_order: 7
 
 ## Mechanics
 
-- NanoCube XYZ Piezo Systems for nanopositioning;
-- Stepper motor-driven systems (MMP3) for micropositioning
+- Two NanoCube XYZ Piezo Systems for nanopositioning;
+- One Stepper motor-driven systems (MMP3) for micropositioning
 - Multiple manual stages.
 
 ---
@@ -58,8 +60,10 @@ nav_order: 7
 
 ## Analytical Equipment
 
+- Tecan Infinite 200Pro Plate Reader
 - Nanodrop 2000 Spectrophotometers
 - Sartorius Entris Analytical Balance
+- Hemo Control hemoglobin and hematocrit analyzer
 - Customized Scanning Ion-Conductance Microscopy (SICM) Setup
 
 ---
@@ -74,23 +78,26 @@ nav_order: 7
 - Laser- Micropipette Puller (P-2000)
 - Vaquform DT2 vacuum forming machine
 - Pocket NC V2-10 Desktop 5-axis CNC Milling Machine
-- Universal Laser System for Material Processing
+- Universal Laser System (VLS3.60DT)
 - Labconco Freeze Dry System for Reagents Lyophilization
 
 ---
 
-## PCR Equipment
+## PCR & Molecular Biology
 
-- Air Clean 600 PCR Workstations
+- Certified Class II, Type A2 Biosafety Cabinets (BSL-2)
+- Air Clean 600 PCR Workstations 
 - Bio-Rad CFX96 Touch™ Real-Time PCR Detection System
 - Bio-Rad GelDoc Go Gel Imaging System
+- Thermo Fisher QuantStudio Absolute Q Digital PCR System
 - Gel Power Supplies and Gel Electrophoresis Units
 - Bio-Rad Sub-Cell GT Horizontal Electrophoresis Cell
 - VWR PCR Plate Spinner
+- UVP Crosslinker
 
 ---
 
-## Refrigerators and Freezers
+## Cold Storage
 
 - Thermo Fisher 4°C Refrigerator
 - Thermo Fisher -20°C Freezers
@@ -102,21 +109,32 @@ nav_order: 7
 
 - Shakers
 - Stir/Hot Plates
+- Vortex mixer
 - Vacuum Oven
 - Thermal Oven
 - Air Science UV Box
-- Variable Temperature Heat Blocks (2)
+- Variable Temperature Heat Blocks
 - Branson CPX5800H Ultrasonic Cleaner
-- Eppendorf Variable Speed Microcentrifuge (3)
-- Vacuum Desiccators (4)
+- Eppendorf Variable Speed Microcentrifuge
+- Vacuum Desiccators
 - Eppendorf 5425 Centrifuge
 - Millipore Direct-Q 3 UV Water Purification System
 - Fume hoods
+- Biological Safety Workstation
+- Microwave
 
 ---
 
 ## Computing and Softwares
 
-- Dell Workstations
-- NVIDIA Jetson GPUs
+- High-performance workstations
+- NVIDIA Jetson GPUs (Multiple Nano, Orin, Thor)
 - COMSOL, SolidWorks, LabView
+
+---
+
+## Safety & Sterilization
+
+- Autoclave Systems for waste sterilization
+- Biohazard waste containers (sharps, liquid, and solid) compliant with  EH&S
+- Routine access to IU Environmental Health & Safety biohazard management services
