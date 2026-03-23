@@ -14,10 +14,12 @@ profiles:
     image: Weihua_Guan.jpg
     content:  >
       Weihua (Wei) Guan, Ph.D.<br>
-      Professor and Interim Chair, Department of Intelligent Systems Engineering <br>
+      Full Professor, Department of Intelligent Systems Engineering <br>
       Luddy School of Informatics, Computing, and Engineering  <br>
       Email: <guanw@iu.edu> <br>
-      Google Scholer: <https://scholar.google.com/citations?user=sE5Z-UoAAAAJ&hl=en> <br><br>
+      Google Scholer: <https://scholar.google.com/citations?user=sE5Z-UoAAAAJ&hl=en> <br>
+      ORCID: <https://orcid.org/0000-0002-8435-9672> <br><br>
+
 
       Prof. Guan received his Ph.D. in Electrical Engineering from Yale University and subsequently completed postdoctoral training in Biomedical Engineering at Johns Hopkins University. He joined the faculty at Penn State University, where he held appointments in both Electrical Engineering and Biomedical Engineering before moving to Indiana University Bloomington, where he is a Full Professor in the Department of Intelligent Systems Engineering. Prof. Guan’s research focuses on the interdisciplinary areas of Molecular Point-of-Care Testing, Nanopore Technology, Embedded Systems, Edge Computing, and Artificial Intelligence. His group develops biomedical sensors, devices, and systems, as well as novel sensing principles to advance molecular diagnostics and testing. His work aims to deliver Accessible, Affordable, Accurate, and Actionable diagnosis wherever and whenever needed. Prof. Guan is actively engaged with the scientific community. He is a Senior Member of IEEE and an active member of BMES, SPIE, the Biophysical Society, and AAAS. A frequent reviewer for more than 40 high-impact journals and federal funding agencies such as NSF and NIH. Prof. Guan's research has been recognized through numerous prestigious honors, including the HHMI International Research Fellowship and the NSF CAREER Award.
     image_circular: false # crops the image to make it circular
