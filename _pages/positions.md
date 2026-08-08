@@ -6,8 +6,6 @@ nav: true
 nav_order: 10
 ---
 
-
-
 ## Postdoctoral Researchers
 
 For currrent postdoctoral research positions. Please contact Prof. Guan at (guanw AT iu.edu) for further information.

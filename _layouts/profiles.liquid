@@ -24,10 +24,10 @@ layout: page
 
         <div class="clearfix">
           {% if profile.content %}
-            {{ profile.content | markdownify }} <!-- Render content directly instead of including a separate .md file -->
+            {{ profile.content | markdownify }}
+            <!-- Render content directly instead of including a separate .md file -->
           {% endif %}
         </div>
-
       {% endfor %}
     {% endif %}
   </article>

@@ -3,10 +3,10 @@
 # -----------------------------------------------------------------------------
 
 title: Guan Lab # the website title (if blank, full name will be used instead)
-first_name: 
-middle_name: 
+first_name:
+middle_name:
 last_name: Guan Lab
-email: 
+email:
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Prof. Weihua Guan's research lab at Indiana University Bloomington.
 footer_text: >
@@ -18,7 +18,7 @@ lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://wguanlab.github.io # the base hostname & protocol for your site
-baseurl:  # the subpath of your site, e.g. /blog/. Leave blank for root
+baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
 last_updated: false # set to true if you want to display last updated in the footer
 impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 back_to_top: true # set to false to disable the back to top button
@@ -65,7 +65,7 @@ max_width: 1200px
 # see https://schema.org/docs/faq.html for more information
 serve_og_meta: true # Include Open Graph meta tags in the HTML head
 serve_schema_org: true # Include Schema.org in the HTML head
-og_image: /assets/img/GuanLabLogo.png   # The site-wide (default for all links) Open Graph preview image
+og_image: /assets/img/GuanLabLogo.png # The site-wide (default for all links) Open Graph preview image
 
 # -----------------------------------------------------------------------------
 # Social integration
@@ -81,13 +81,13 @@ flickr_id: # your flickr id
 github_username: # your GitHub user name
 gitlab_username: # your GitLab user name
 ieee_id: # your ieeexplore.ieee.org/author/id
-inspirehep_id:  # Inspire HEP author ID
+inspirehep_id: # Inspire HEP author ID
 instagram_id: # your instagram id
 kaggle_id: # your kaggle id
 keybase_username: # your keybase user name
 lastfm_id: # your lastfm id
 lattes_id: # your ID on Lattes (Brazilian Lattes CV)
-linkedin_username: weihua-guan-7a761117  # your LinkedIn user name
+linkedin_username: weihua-guan-7a761117 # your LinkedIn user name
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 medium_username: # your Medium username
 orcid_id: 0000-0002-8435-9672 # your ORCID ID
@@ -121,7 +121,7 @@ contact_note: >
 
 # For Google Analytics, see https://support.google.com/analytics/answer/10447272?hl=en&ref_topic=14088998&sjid=5129943941510317771-SA#zippy=%2Cgoogle-sites
 # and follow the instructions for Google Sites. You will need to create a Google Analytics property and copy the Google tag ID.
-google_analytics: G-K5E7SF4R3B  # your Google Analytics measurement ID (format: G-XXXXXXXXXX)
+google_analytics: G-K5E7SF4R3B # your Google Analytics measurement ID (format: G-XXXXXXXXXX)
 cronitor_analytics: # cronitor RUM analytics site ID (format: XXXXXXXXX)
 pirsch_analytics: # your Pirsch analytics site ID (length 32 characters)
 openpanel_analytics: # your Openpanel analytics client ID (format: XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX)
@@ -135,7 +135,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: GuanLab # blog_name will be displayed in your blog page
-blog_description:   The Prof. Weihua Guan Lab at Indiana University (IU) Luddy School of Informatics, Computing, and Engineering develops innovative biomedical devices, sensors, and systems to advance accessible, affordable, and accurate healthcare diagnostics through the integration of engineering, biology, and medicine.
+blog_description: The Prof. Weihua Guan Lab at Indiana University (IU) Luddy School of Informatics, Computing, and Engineering develops innovative biomedical devices, sensors, and systems to advance accessible, affordable, and accurate healthcare diagnostics through the integration of engineering, biology, and medicine.
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 

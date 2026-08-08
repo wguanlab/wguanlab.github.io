@@ -2,15 +2,14 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description:  #Materials for courses you taught. Replace this text with your description.
+description: #Materials for courses you taught. Replace this text with your description.
 nav: true
 nav_order: 9
 ---
 
-
 ## Electronic Circuit Design I
 
-In this course, we learn about the electrical properties of different fundamental semiconductor devices and their basic circuit design applications. This course deals explicitly with both linear and nonlinear applications of devices, and with the practical aspects of design such as the inherently nonlinear nature of semiconductor devices. The analysis concepts introduced in your previous network course are utilized and advanced in their treatment of nonlinear devices. In the laboratory, we put the theory into practice. 
+In this course, we learn about the electrical properties of different fundamental semiconductor devices and their basic circuit design applications. This course deals explicitly with both linear and nonlinear applications of devices, and with the practical aspects of design such as the inherently nonlinear nature of semiconductor devices. The analysis concepts introduced in your previous network course are utilized and advanced in their treatment of nonlinear devices. In the laboratory, we put the theory into practice.
 
 ---
 
@@ -32,7 +31,7 @@ The lecture provides learning opportunities that should enable the students to d
 
 ## Micro & Nano Medical Devices
 
-This course aims to provide a comprehensive foundation in the theory and application of micro- and nanoscale medical devices. 
+This course aims to provide a comprehensive foundation in the theory and application of micro- and nanoscale medical devices.
 
 The objectives are:
 

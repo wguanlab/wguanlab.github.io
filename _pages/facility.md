@@ -86,7 +86,7 @@ nav_order: 7
 ## PCR & Molecular Biology
 
 - Certified Class II, Type A2 Biosafety Cabinets (BSL-2)
-- Air Clean 600 PCR Workstations 
+- Air Clean 600 PCR Workstations
 - Bio-Rad CFX96 Touch™ Real-Time PCR Detection System
 - Bio-Rad GelDoc Go Gel Imaging System
 - Thermo Fisher QuantStudio Absolute Q Digital PCR System
@@ -136,5 +136,5 @@ nav_order: 7
 ## Safety & Sterilization
 
 - Autoclave Systems for waste sterilization
-- Biohazard waste containers (sharps, liquid, and solid) compliant with  EH&S
+- Biohazard waste containers (sharps, liquid, and solid) compliant with EH&S
 - Routine access to IU Environmental Health & Safety biohazard management services

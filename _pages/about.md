@@ -4,11 +4,9 @@ title: about
 permalink: /
 subtitle: Biomedical Devices, Sensors, and Systems
 
-
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
-
 ---
 
 > **Lab Mission**: Democratizing **A**ccessible, **A**ffordable, **A**ccurate, and **A**ctionable diagnosis wherever and whenever needed
@@ -45,8 +43,8 @@ Our research spans several core areas, including:
 To develop innovative solutions, we leverage a diverse array of cutting-edge technologies, including:
 
 - **Device Fabrication**: Micro/nanofabrication, 3D printing, rapid prototyping for develop sensors and lab-on-a-chip devices
-- **Embedded Systems**: Employing mbedded hardware platforms like Jetson, Arduino,  Raspberry Pi to drive innovation.
+- **Embedded Systems**: Employing mbedded hardware platforms like Jetson, Arduino, Raspberry Pi to drive innovation.
 - **Molecular Techniques**: Advanced molecular technologies, and single molecule sequencing
 - **Advanced Analytics & Edge Computing**: Machine learning, artificial intelligence and GPU acceleration.
-  
+
 By integrating these advanced technologies with our expertise in engineering, biology, and medicine, we strive to create innovative and transformative solutions.
