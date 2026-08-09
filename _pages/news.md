@@ -2,7 +2,7 @@
 layout: page
 title: news
 permalink: /news/
-nav: false
+nav: true
 nav_order: 80
 ---
 
@@ -26,6 +26,12 @@ nav_order: 80
   }
 </style>
 
+| **2026-06-01** | Our review article, _Point-of-care testing for early diagnosis and population screening of Alzheimer’s disease: Recent advances and perspectives_, was published in _Nano Today_. |
+| **2026-05-05** | We received a new NSF award to develop eMAP (electronic Multiplexed Amplicon Profiling), a machine learning-enhanced solid-state nanopore platform for rapid multiplexed molecular diagnostics. |
+| **2026-03-01** | We published _Remotely Controlled Continuous Surveillance of Viral RNA in Wastewater Using a LoRa Network_ in the _IEEE Internet of Things Journal_. |
+| **2026-02-15** | We presented _Solid-State Nanopore Counting Enables Rapid DNA Fragment Assessment for Mobile Genomic Analysis_ at the Biophysical Society Annual Meeting 2026. |
+| **2025-09-15** | Members of the lab presented their latest research on nanopore sensing, molecular diagnostics, wastewater surveillance, and AI-enabled biosensing at the BMES 2025 Annual Meeting. |
+| **2025-09-01** | Welcome Dr. Tathagata Pal as a Postdoctoral Research Associate in our group. |
 | **2025-07-04** | Ahasan’s latest work on salivary miRNA-based prediction of severe COVID-19 in children has been published in [ACS Sensors](https://pubs.acs.org/doi/abs/10.1021/acssensors.5c01275). The study introduces a portable ligation-RPA assay enabling rapid, noninvasive, and multiplexed miRNA detection at the point of care.
 | **2025-06-26** | Asad’s work on portable nanopore-based QC for cfDNA is now published in [ACS Sensors](https://pubs.acs.org/doi/abs/10.1021/acssensors.5c00803). The study enables rapid, label-free analysis at the point of sample collection—advancing real-time, decentralized sequencing.
 | **2025-05-01** | Welcome Dr. Bingyuan Guo as a Postdoctoral Research Associate in our group.
