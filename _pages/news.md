@@ -27,7 +27,7 @@ nav_order: 80
 </style>
 
 | **2026-06-01** | Our review article, _Point-of-care testing for early diagnosis and population screening of Alzheimer’s disease: Recent advances and perspectives_, was published in _Nano Today_. |
-| **2026-05-05** | We received a new NSF award to develop eMAP (electronic Multiplexed Amplicon Profiling), a machine learning-enhanced solid-state nanopore platform for rapid multiplexed molecular diagnostics. |
+| **2026-05-05** | We received a new NSF award to develop eMAP (electronic Multiplexed Amplicon Profiling), a machine learning-enhanced solid-state nanopore platform for rapid multiplexed molecular diagnostics. [News](https://pubs.acs.org/doi/abs/10.1021/acssensors.5c01275) |
 | **2026-03-01** | We published _Remotely Controlled Continuous Surveillance of Viral RNA in Wastewater Using a LoRa Network_ in the _IEEE Internet of Things Journal_. |
 | **2026-02-15** | We presented _Solid-State Nanopore Counting Enables Rapid DNA Fragment Assessment for Mobile Genomic Analysis_ at the Biophysical Society Annual Meeting 2026. |
 | **2025-09-15** | Members of the lab presented their latest research on nanopore sensing, molecular diagnostics, wastewater surveillance, and AI-enabled biosensing at the BMES 2025 Annual Meeting. |
