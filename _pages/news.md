@@ -26,10 +26,13 @@ nav_order: 80
   }
 </style>
 
+| **2026-07-29** | Our ViraLite work was published in _Microsystems & Nanoengineering_. The ultracompact, battery-powered system combines multiplex RT-LAMP, an internal process control, machine-learning-assisted fluorescence analysis, and smartphone guidance for decentralized HIV viral-load monitoring. [Read the article](https://doi.org/10.1038/s41378-026-01343-9). |
 | **2026-06-01** | Our review article, _Point-of-care testing for early diagnosis and population screening of Alzheimer’s disease: Recent advances and perspectives_, was published in _Nano Today_. |
 | **2026-05-05** | We received a new NSF award to develop eMAP (electronic Multiplexed Amplicon Profiling), a machine learning-enhanced solid-state nanopore platform for rapid multiplexed molecular diagnostics. [News Coverage](https://news.iu.edu/luddy/live/news/50448-luddy-school-researcher-receives-nsf-award-to) |
 | **2026-03-01** | We published _Remotely Controlled Continuous Surveillance of Viral RNA in Wastewater Using a LoRa Network_ in the _IEEE Internet of Things Journal_. |
 | **2026-02-15** | We presented _Solid-State Nanopore Counting Enables Rapid DNA Fragment Assessment for Mobile Genomic Analysis_ at the Biophysical Society Annual Meeting 2026. |
+| **2025-11-15** | Our portable platform for simultaneous HIV and HCV viral-load self-testing was published in _Biosensors and Bioelectronics_. The system integrates RNA extraction with multiplex RT-PCR, processes a finger-prick blood sample, and returns results in under one hour. [Read the article](https://doi.org/10.1016/j.bios.2025.117843). |
+| **2025-11-15** | Our point-of-need, one-pot multiplex RT-LAMP test was published in _Biosensors and Bioelectronics_. The saliva-based assay uses a machine-learning-enabled compact analyzer to detect SARS-CoV-2, influenza, and RSV simultaneously. [Read the article](https://doi.org/10.1016/j.bios.2025.117836). |
 | **2025-09-15** | Members of the lab presented their latest research on nanopore sensing, molecular diagnostics, wastewater surveillance, and AI-enabled biosensing at the BMES 2025 Annual Meeting. |
 | **2025-09-01** | Welcome Dr. Tathagata Pal as a Postdoctoral Research Associate in our group. |
 | **2025-07-04** | Ahasan’s latest work on salivary miRNA-based prediction of severe COVID-19 in children has been published in [ACS Sensors](https://pubs.acs.org/doi/abs/10.1021/acssensors.5c01275). The study introduces a portable ligation-RPA assay enabling rapid, noninvasive, and multiplexed miRNA detection at the point of care.
