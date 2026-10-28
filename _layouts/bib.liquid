@@ -215,18 +215,6 @@
           <a href="{{ entry.pdf | prepend: '/assets/pdf/' | relative_url }}" class="btn btn-sm z-depth-0" role="button">PDF</a>
         {% endif %}
       {% endif %}
-      {% if entry.news %}
-        <p>Media:</p>
-        <ul>
-          {% assign mentions = entry.news | split: ';' %}
-          {% for mention in mentions %}
-            {% assign parts = mention | split: '|' %}
-            <li>
-              <a href="{{ parts[1] | strip }}" target="_blank">{{ parts[0] | strip }}</a>
-            </li>
-          {% endfor %}
-        </ul>
-      {% endif %}
       {% if entry.supp %}
         {% if entry.supp contains '://' %}
           <a href="{{ entry.supp }}" class="btn btn-sm z-depth-0" role="button">Supp</a>
@@ -300,6 +288,20 @@
         <a href="{{ entry.website }}" class="btn btn-sm z-depth-0" role="button">Website</a>
       {% endif %}
     </div>
+    {% if entry.news %}
+      <!-- Media coverage: one line under the buttons so it doesn't split the button row -->
+      <div class="pub-media">
+        <span class="pub-media-label">Media:</span>
+        {% assign mentions = entry.news | split: ';' %}
+        {% for mention in mentions %}
+          {% assign parts = mention | split: '|' -%}
+          <a href="{{ parts[1] | strip }}" target="_blank" rel="noopener">{{ parts[0] | strip }}</a>
+          {%- unless forloop.last -%}
+            <span class="pub-media-sep"> &middot; </span>
+          {%- endunless %}
+        {% endfor %}
+      </div>
+    {% endif %}
     {% if site.enable_publication_badges %}
       {% assign entry_has_altmetric_badge = false %}
       {% if entry.altmetric and entry.altmetric != 'false' %}

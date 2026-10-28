@@ -136,6 +136,19 @@
   .publications ol.bibliography li .links a.btn {
     border-radius: 4px;
   }
+  .publications ol.bibliography li .pub-media {
+    margin-top: 0.35rem;
+    font-size: 0.875rem;
+    line-height: 1.6;
+    .pub-media-label {
+      color: var(--page-muted-text-color, var(--global-text-color));
+      font-weight: 600;
+      margin-right: 0.25rem;
+    }
+    .pub-media-sep {
+      color: var(--page-muted-text-color, var(--global-text-color));
+    }
+  }
   .bibsearch-form-input {
     border-radius: 4px;
     &:focus {
