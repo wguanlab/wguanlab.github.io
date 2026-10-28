@@ -11,3 +11,8 @@ assets/libs/
 node_modules/
 vendor
 .idea
+
+# Google Cloud service-account keys (e.g. for the Analytics Data API) must never be published
+.secret/
+ga-reports-*.json
+*service-account*.json
