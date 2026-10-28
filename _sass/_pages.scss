@@ -136,6 +136,81 @@
   .publications ol.bibliography li .links a.btn {
     border-radius: 4px;
   }
+  .publications ol.bibliography li .pub-si-videos {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    margin-top: 0.5rem;
+  }
+  .publications ol.bibliography li .pub-si-video {
+    position: relative;
+    width: 128px;
+    padding: 0;
+    overflow: hidden;
+    background: #000;
+    border: 1px solid var(--global-divider-color);
+    border-radius: 4px;
+    cursor: pointer;
+    img {
+      display: block;
+      width: 100%;
+      aspect-ratio: 16 / 9;
+      object-fit: cover;
+      opacity: 0.85;
+      transition: opacity 0.15s;
+    }
+    .pub-si-play {
+      position: absolute;
+      top: 38%;
+      left: 50%;
+      width: 28px;
+      height: 28px;
+      transform: translate(-50%, -50%);
+      background: rgba(0, 0, 0, 0.55);
+      border-radius: 50%;
+      &::after {
+        content: "";
+        position: absolute;
+        top: 50%;
+        left: 54%;
+        transform: translate(-50%, -50%);
+        border-style: solid;
+        border-width: 6px 0 6px 10px;
+        border-color: transparent transparent transparent #fff;
+      }
+    }
+    .pub-si-label {
+      position: absolute;
+      right: 0;
+      bottom: 0;
+      left: 0;
+      padding: 0.1rem 0.35rem;
+      color: #fff;
+      font-size: 0.7rem;
+      font-weight: 600;
+      text-align: left;
+      background: linear-gradient(transparent, rgba(0, 0, 0, 0.75));
+    }
+    &:hover img,
+    &:focus-visible img {
+      opacity: 1;
+    }
+    &[aria-pressed="true"] {
+      border-color: var(--global-theme-color);
+      box-shadow: 0 0 0 2px var(--global-theme-color);
+    }
+  }
+  .publications ol.bibliography li .pub-si-player {
+    flex-basis: 100%;
+    video {
+      display: block;
+      width: 100%;
+      max-width: 640px;
+      max-height: 400px;
+      background: #000;
+      border-radius: 4px;
+    }
+  }
   .publications ol.bibliography li .pub-media {
     margin-top: 0.35rem;
     font-size: 0.875rem;

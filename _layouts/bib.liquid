@@ -224,8 +224,8 @@
       {% endif %}
       {% if entry.si %}
         {% comment %}
-          si = {file1; file2; ...} under assets/pdf/ (or full URLs). Documents become "SI" (SI1, SI2, ... if several);
-          videos become SI-Video1, SI-Video2, ...
+          si = {file1; file2; ...} under assets/pdf/ (or full URLs). Documents become "SI" buttons (SI1, SI2, ... if several);
+          videos are shown below the buttons as click-to-play thumbnails (poster = same name with .jpg).
         {% endcomment %}
         {% assign si_files = entry.si | split: ';' %}
         {% assign si_doc_total = 0 %}
@@ -236,27 +236,23 @@
           {% endunless %}
         {% endfor %}
         {% assign si_doc = 0 %}
-        {% assign si_video = 0 %}
         {% for f in si_files %}
           {% assign si_file = f | strip %}
           {% assign ext = si_file | split: '.' | last | downcase %}
-          {% if ext == 'mp4' or ext == 'avi' or ext == 'mov' or ext == 'wmv' or ext == 'mpg' or ext == 'mpeg' or ext == 'm4v' %}
-            {% assign si_video = si_video | plus: 1 %}
-            {% capture si_label %}SI-Video{{ si_video }}{% endcapture %}
-          {% else %}
+          {% unless ext == 'mp4' or ext == 'avi' or ext == 'mov' or ext == 'wmv' or ext == 'mpg' or ext == 'mpeg' or ext == 'm4v' %}
             {% assign si_doc = si_doc | plus: 1 %}
             {% if si_doc_total > 1 %}
               {% capture si_label %}SI{{ si_doc }}{% endcapture %}
             {% else %}
               {% assign si_label = 'SI' %}
             {% endif %}
-          {% endif %}
-          {% if si_file contains '://' %}
-            {% assign si_href = si_file %}
-          {% else %}
-            {% assign si_href = si_file | prepend: '/assets/pdf/' | relative_url %}
-          {% endif %}
-          <a href="{{ si_href }}" class="btn btn-sm z-depth-0" role="button">{{ si_label }}</a>
+            {% if si_file contains '://' %}
+              {% assign si_href = si_file %}
+            {% else %}
+              {% assign si_href = si_file | prepend: '/assets/pdf/' | relative_url %}
+            {% endif %}
+            <a href="{{ si_href }}" class="btn btn-sm z-depth-0" role="button">{{ si_label }}</a>
+          {% endunless %}
         {% endfor %}
       {% endif %}
       {% if entry.video and site.enable_video_embedding %}
@@ -288,6 +284,35 @@
         <a href="{{ entry.website }}" class="btn btn-sm z-depth-0" role="button">Website</a>
       {% endif %}
     </div>
+    {% if entry.si contains '.mp4' %}
+      <!-- SI videos: thumbnails that open an inline player (see the script in _pages/publications.md) -->
+      <div class="pub-si-videos">
+        {% assign si_video = 0 %}
+        {% for f in si_files %}
+          {% assign si_file = f | strip %}
+          {% assign ext = si_file | split: '.' | last | downcase %}
+          {% if ext == 'mp4' %}
+            {% assign si_video = si_video | plus: 1 %}
+            {% assign si_src = si_file | prepend: '/assets/pdf/' | relative_url %}
+            {% assign si_poster = si_file | replace: '.mp4', '.jpg' | prepend: '/assets/pdf/' | relative_url %}
+            <button
+              type="button"
+              class="pub-si-video"
+              data-src="{{ si_src }}"
+              aria-pressed="false"
+              aria-label="Play supplementary video {{ si_video }}"
+            >
+              <img src="{{ si_poster }}" alt="" loading="lazy">
+              <span class="pub-si-play" aria-hidden="true"></span>
+              <span class="pub-si-label">Video {{ si_video }}</span>
+            </button>
+          {% endif %}
+        {% endfor %}
+        <div class="pub-si-player" hidden>
+          <video controls playsinline preload="none"></video>
+        </div>
+      </div>
+    {% endif %}
     {% if entry.news %}
       <!-- Media coverage: one line under the buttons so it doesn't split the button row -->
       <div class="pub-media">
