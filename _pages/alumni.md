@@ -77,10 +77,10 @@ nav_order: 6
 
 | Name                                                                                                                             | Period              | Additional Information |
 | -------------------------------------------------------------------------------------------------------------------------------- | ------------------- | ---------------------- |
-| <img class="alumni-photo" src="../assets/img/alumni/ujwal-jibhkate.jpg" alt="" loading="lazy">Ujwal Jibhkate                     | Aug 2025 – 2026     |                        |
-| <img class="alumni-photo" src="../assets/img/alumni/lakshmi-nidamarty.jpg" alt="" loading="lazy">Lakshmi Bhanu Aravind Nidamarty | Aug 2025 – 2026     |                        |
-| <img class="alumni-photo" src="../assets/img/alumni/xue-xiao.jpg" alt="" loading="lazy">Xue Xiao                                 | Aug 2025 – 2026     |                        |
-| <img class="alumni-photo" src="../assets/img/alumni/aditya-dhumal.jpg" alt="" loading="lazy">Aditya Bhausaheb Dhumal             | Aug 2025 – 2026     |                        |
+| <img class="alumni-photo" src="../assets/img/alumni/ujwal-jibhkate.jpg" alt="" loading="lazy">Ujwal Jibhkate                     | 2025                |                        |
+| <img class="alumni-photo" src="../assets/img/alumni/lakshmi-nidamarty.jpg" alt="" loading="lazy">Lakshmi Bhanu Aravind Nidamarty | 2025                |                        |
+| <img class="alumni-photo" src="../assets/img/alumni/xue-xiao.jpg" alt="" loading="lazy">Xue Xiao                                 | 2025                |                        |
+| <img class="alumni-photo" src="../assets/img/alumni/aditya-dhumal.jpg" alt="" loading="lazy">Aditya Bhausaheb Dhumal             | 2025                |                        |
 | <img class="alumni-photo" src="../assets/img/alumni/placeholder.jpg" alt="" loading="lazy">Yilin Zhang                           | Aug 2023 – Aug 2024 |                        |
 | <img class="alumni-photo" src="../assets/img/alumni/fanming-liu.jpg" alt="" loading="lazy">Fanming Liu                           | Aug 2022 – Mar 2023 | **Next**: PhD, PSU     |
 | <img class="alumni-photo" src="../assets/img/alumni/placeholder.jpg" alt="" loading="lazy">Wenxin Cao                            | Aug 2020 – May 2021 |                        |
@@ -95,8 +95,8 @@ nav_order: 6
 
 | Name                                                                                                               | Period              | Additional Information                                                                                                    |
 | ------------------------------------------------------------------------------------------------------------------ | ------------------- | ------------------------------------------------------------------------------------------------------------------------- |
-| <img class="alumni-photo" src="../assets/img/alumni/jack-wember.jpg" alt="" loading="lazy">Jack Wember             | Aug 2025 – 2026     |                                                                                                                           |
-| <img class="alumni-photo" src="../assets/img/alumni/angelo-gonzalez.jpg" alt="" loading="lazy">Angelo Gonzalez     | Aug 2025 – 2026     |                                                                                                                           |
+| <img class="alumni-photo" src="../assets/img/alumni/jack-wember.jpg" alt="" loading="lazy">Jack Wember             | 2025                |                                                                                                                           |
+| <img class="alumni-photo" src="../assets/img/alumni/angelo-gonzalez.jpg" alt="" loading="lazy">Angelo Gonzalez     | 2025                |                                                                                                                           |
 | <img class="alumni-photo" src="../assets/img/alumni/placeholder.jpg" alt="" loading="lazy">Hueyue Pan              | Aug 2022 – Mar 2023 |                                                                                                                           |
 | <img class="alumni-photo" src="../assets/img/alumni/naqiyah-peatiwala.jpg" alt="" loading="lazy">Naqiyah Peatiwala | Jan 2022 – May 2022 |                                                                                                                           |
 | <img class="alumni-photo" src="../assets/img/alumni/jiarui-cui.jpg" alt="" loading="lazy">Jiarui (Jerry) Cui       | Aug 2020 – May 2022 |                                                                                                                           |
