@@ -76,7 +76,7 @@ profiles:
     image: members/ahasan-ahamed.jpg
     content: >
       Ahasan Ahamed <br>
-      Graduate Student<br> 
+      Ph.D. Student<br> 
       Email: <mdahamed@iu.edu> <br>
       Google Scholer: <https://scholar.google.com/citations?user=elt2-ZsAAAAJ&hl=en> <br>
       ORCID: <https://orcid.org/0009-0006-9962-2994> <br><br>
@@ -90,7 +90,7 @@ profiles:
     image: members/tonmoy-saha.jpg
     content: >
       Tonmoy Chandro Saha <br>
-      Graduate Student<br>
+      Ph.D. Student<br>
       Email: <tonmsaha@iu.edu> <br>
       Google Scholar: <https://scholar.google.com/citations?user=Jdb4YqUAAAAJ&hl=en> <br>
       ORCID: <https://orcid.org/0009-0004-8062-0169> <br>
@@ -105,7 +105,7 @@ profiles:
     image: members/jawad-azad.jpg
     content: >
       Munshi Jawad Ibne Azad <br>
-      Graduate Student<br>
+      Ph.D. Student<br>
       Email: <azadm@iu.edu> <br>
       Google Scholar: <https://scholar.google.com/citations?user=H5uKBMYAAAAJ&hl=en> <br>
       ORCID: <https://orcid.org/0009-0006-4230-8064> <br><br>
@@ -119,7 +119,7 @@ profiles:
     image: members/placeholder.jpg
     content: >
       Abrar Zarif <br>
-      Graduate Student<br>
+      Ph.D. Student<br>
       Email: <abzarif@iu.edu> <br><br>
 
     image_circular: false # crops the image to make it circular
