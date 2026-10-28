@@ -1,0 +1,194 @@
+// Shared look for interior pages (layout: page, and profiles which nests in it).
+// Mirrors the front-page hero: heavy tight headings, crimson accent rule, theme tokens only.
+
+:root {
+  // Readable secondary text in both themes (--global-text-color-light is too faint for body copy).
+  --page-muted-text-color: color-mix(in srgb, var(--global-text-color) 70%, var(--global-bg-color));
+}
+
+.page-layout {
+  a:focus-visible {
+    outline: 3px solid var(--global-theme-color);
+    outline-offset: 3px;
+  }
+
+  // Page header: title | crimson rule | description, the same lockup as the front-page hero.
+  .page-header {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 0.5rem 1.25rem;
+    margin-bottom: 2.5rem;
+    padding: 0.75rem 0 1.5rem;
+    border-bottom: 1px solid var(--global-divider-color);
+
+    .post-title {
+      margin: 0;
+      font-size: clamp(2.1rem, 4vw, 2.75rem);
+      font-weight: 700;
+      letter-spacing: -0.03em;
+      line-height: 1.05;
+      text-transform: capitalize;
+    }
+    .post-description {
+      max-width: 34rem;
+      margin: 0;
+      padding-left: 1.25rem;
+      border-left: 2px solid var(--global-theme-color);
+      color: var(--page-muted-text-color, var(--global-text-color));
+      font-size: 1.05rem;
+      line-height: 1.4;
+      &::first-letter {
+        text-transform: uppercase;
+      }
+    }
+  }
+
+  // Content typography
+  article {
+    h2:not(.bibliography):not(.category) {
+      margin: 2.75rem 0 1rem;
+      font-size: clamp(1.5rem, 2.6vw, 1.85rem);
+      font-weight: 600;
+      letter-spacing: -0.02em;
+      line-height: 1.25;
+    }
+    > h2:first-of-type,
+    hr + h2:not(.bibliography) {
+      margin-top: 0;
+    }
+    h3 {
+      font-size: 1.2rem;
+      font-weight: 600;
+    }
+    hr {
+      margin: 2.5rem 0;
+    }
+    > p,
+    > ul li,
+    > ol li {
+      line-height: 1.7;
+    }
+    > ul,
+    > ol {
+      padding-left: 1.25rem;
+      li {
+        margin-bottom: 0.35rem;
+      }
+      li::marker {
+        color: var(--global-theme-color);
+      }
+    }
+
+    // Tables (alumni, news): theme-colored rules instead of the pages' hard-coded #ddd.
+    table th,
+    table td {
+      border-bottom: 1px solid var(--global-divider-color);
+      vertical-align: top;
+      line-height: 1.6;
+    }
+    table th {
+      color: var(--page-muted-text-color, var(--global-text-color));
+      font-size: 0.8rem;
+      font-weight: 600;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      border-bottom: 2px solid var(--global-theme-color);
+    }
+  }
+
+  // Member profiles: name line reads as a heading; photos match the site's 6px radius.
+  .profile img {
+    border-radius: 6px;
+  }
+  // Keep each bio in its own column beside the photo instead of wrapping under it.
+  @media (min-width: 576px) {
+    .profile + .clearfix {
+      overflow: hidden;
+    }
+  }
+  // The page header already draws a rule; drop the profiles' leading <hr>.
+  .page-header + article > .post > article > hr:first-child {
+    display: none;
+  }
+  .profile + .clearfix > p:first-child::first-line {
+    font-size: 1.3rem;
+    font-weight: 700;
+    letter-spacing: -0.01em;
+  }
+  // Each profile starts with an <hr>; clearing here keeps a short bio from letting
+  // the next profile ride up beside the previous photo.
+  .post > article > hr {
+    clear: both;
+    margin: 2.5rem 0;
+  }
+
+  // Publications (jekyll-scholar): readable year dividers, focus ring on the filter box.
+  .publications h2.bibliography {
+    margin-top: 2.75rem;
+    padding-top: 1.25rem;
+    color: var(--global-theme-color);
+    font-size: 1.5rem;
+    font-weight: 700;
+    letter-spacing: -0.02em;
+    text-align: left;
+  }
+  .publications ol.bibliography li .links a.btn {
+    border-radius: 4px;
+  }
+  .bibsearch-form-input {
+    border-radius: 4px;
+    &:focus {
+      border-color: var(--global-theme-color);
+      box-shadow: 0 0 0 3px color-mix(in srgb, var(--global-theme-color) 25%, transparent);
+    }
+  }
+
+  // News: year headings and dates styled like the publications list.
+  article .news-list {
+    h2.news-year {
+      margin: 2.75rem 0 0.5rem;
+      padding-top: 1.25rem;
+      color: var(--global-theme-color);
+      font-size: 1.5rem;
+      font-weight: 700;
+      letter-spacing: -0.02em;
+    }
+    > h2.news-year:first-child {
+      margin-top: 0;
+      padding-top: 0;
+    }
+    table {
+      width: 100%;
+      table-layout: fixed;
+      border-collapse: collapse;
+    }
+    td {
+      padding: 0.8rem 1rem 0.8rem 0;
+    }
+    td:first-child {
+      width: 7.5rem;
+      white-space: nowrap;
+      strong {
+        color: var(--page-muted-text-color, var(--global-text-color));
+        font-weight: 500;
+        font-variant-numeric: tabular-nums;
+      }
+    }
+  }
+
+  @media (max-width: 575px) {
+    article .news-list td:first-child {
+      width: 6.25rem;
+    }
+    .page-header {
+      flex-direction: column;
+      align-items: flex-start;
+      gap: 0.85rem;
+      .post-description {
+        padding-left: 0;
+        border-left: 0;
+      }
+    }
+  }
+}

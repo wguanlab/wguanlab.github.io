@@ -1,0 +1,329 @@
+// About is the lab's landing page. Reuse the site's light/dark theme tokens.
+.about-page {
+  .post-header {
+    margin-bottom: 2rem;
+    .post-title {
+      font-size: 2rem;
+      margin-bottom: 0.35rem;
+    }
+    .desc {
+      color: var(--global-text-color-light);
+    }
+  }
+
+  // Hero: one panel that carries the lab identity (lockup + h1) and the mission.
+  .about-hero {
+    margin-top: 0.5rem;
+    padding: clamp(1.75rem, 4.5vw, 3.5rem) clamp(1.25rem, 5vw, 4rem) clamp(2rem, 5vw, 3.75rem);
+    border-top: 4px solid var(--global-theme-color);
+    background: var(--global-code-bg-color);
+  }
+
+  // Lockup: lab name | crimson rule | research focus.
+  .about-lockup {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 0.5rem 1.25rem;
+    padding-bottom: clamp(1.5rem, 3vw, 2rem);
+    margin-bottom: clamp(1.75rem, 4vw, 2.75rem);
+    border-bottom: 1px solid var(--global-divider-color);
+  }
+  .about-lockup-name {
+    margin: 0;
+    font-size: clamp(2.1rem, 4vw, 2.75rem);
+    font-weight: 700;
+    letter-spacing: -0.03em;
+    line-height: 1;
+    white-space: nowrap;
+  }
+  .about-lockup-meta {
+    display: flex;
+    flex-direction: column;
+    gap: 0.2rem;
+    margin: 0;
+    padding-left: 1.25rem;
+    border-left: 2px solid var(--global-theme-color);
+    line-height: 1.3;
+  }
+  .about-lockup-focus {
+    font-size: clamp(1.05rem, 1.6vw, 1.2rem);
+    font-weight: 500;
+  }
+
+  .about-mission {
+    h2 {
+      max-width: 880px;
+      font-size: clamp(1.95rem, 4.4vw, 3.4rem);
+      font-weight: 700;
+      letter-spacing: -0.035em;
+      line-height: 1.1;
+      margin-bottom: 1.35rem;
+      span {
+        color: var(--global-theme-color);
+      }
+    }
+  }
+
+  .about-mission-statement {
+    max-width: 640px;
+    font-size: 1.15rem;
+    line-height: 1.65;
+    margin-bottom: 0;
+  }
+  .about-actions {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 1.25rem 2rem;
+    margin-top: 1.75rem;
+  }
+  .about-button {
+    display: inline-block;
+    padding: 0.8rem 1.2rem;
+    border: 1px solid var(--global-theme-color);
+    border-radius: 4px;
+    color: var(--global-bg-color);
+    background: var(--global-theme-color);
+    font-weight: 600;
+    &:hover {
+      color: var(--global-theme-color);
+      background: var(--global-bg-color);
+      text-decoration: none;
+    }
+  }
+  .about-text-link {
+    font-weight: 600;
+  }
+  a:focus-visible {
+    outline: 3px solid var(--global-theme-color);
+    outline-offset: 5px;
+  }
+  .about-section {
+    margin-top: 4rem;
+    scroll-margin-top: 90px;
+  }
+  .about-section h2 {
+    font-size: clamp(1.65rem, 3vw, 2rem);
+    font-weight: 600;
+    letter-spacing: -0.025em;
+    margin-bottom: 1rem;
+  }
+  .about-section p {
+    line-height: 1.75;
+  }
+  .about-section-intro {
+    max-width: 700px;
+    margin-bottom: 2rem;
+  }
+  .about-intro {
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    gap: 2.5rem;
+  }
+  .about-research-grid {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 2rem;
+  }
+  .about-research-item {
+    border-top: 1px solid var(--global-divider-color);
+    padding-top: 1.25rem;
+    h3 {
+      font-size: 1.2rem;
+      font-weight: 600;
+      line-height: 1.4;
+      margin: 0.7rem 0;
+    }
+    p {
+      margin-bottom: 0;
+    }
+  }
+  // Illustrations are drawn on white, so keep a white panel in dark mode too.
+  .about-media {
+    display: block;
+    width: 100%;
+    aspect-ratio: 4 / 3;
+    object-fit: contain;
+    margin-bottom: 1rem;
+    background: $white-color;
+    border: 1px solid var(--global-divider-color);
+    border-radius: 6px;
+  }
+  .about-number {
+    color: var(--global-theme-color);
+    font-size: 0.85rem;
+    font-weight: 600;
+  }
+  // Cards in a row share a height; push the paper lists to the bottom so they line up.
+  .about-research-item {
+    display: flex;
+    flex-direction: column;
+    > p {
+      margin-bottom: 0.9rem;
+    }
+  }
+  .about-selected {
+    list-style: none;
+    padding: 0.75rem 0 0;
+    margin: auto 0 0;
+    border-top: 1px dashed var(--global-divider-color);
+    font-size: 0.9rem;
+    line-height: 1.5;
+    li {
+      margin-bottom: 0.35rem;
+      color: var(--global-text-color-light);
+    }
+  }
+  // Subgrid lines up image, number, title, description, and paper list across cards.
+  .about-thrust-grid {
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+    gap: 0 1.75rem;
+    > .about-research-item {
+      display: grid;
+      grid-row: span 5;
+      grid-template-rows: subgrid;
+      margin-bottom: 2rem;
+    }
+    .about-selected {
+      margin-top: 0;
+    }
+  }
+  .about-applications {
+    border-top: 1px solid var(--global-divider-color);
+    padding-top: 3rem;
+  }
+  .about-app-grid {
+    display: grid;
+    grid-template-columns: repeat(5, minmax(0, 1fr));
+    gap: 0 1.75rem;
+  }
+  .about-app-item {
+    display: grid;
+    grid-row: span 3;
+    grid-template-rows: subgrid;
+    margin-bottom: 1.75rem;
+    i {
+      color: var(--global-theme-color);
+      font-size: 1.75rem;
+    }
+    h3 {
+      font-size: 1.1rem;
+      font-weight: 600;
+      margin: 0.8rem 0 0.4rem;
+    }
+    p {
+      margin: 0;
+    }
+  }
+  .about-video-grid {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 2rem 1.5rem;
+    iframe,
+    .about-video-thumb {
+      display: block;
+      width: 100%;
+      aspect-ratio: 16 / 9;
+      height: auto;
+      border: 0;
+      border-radius: 6px;
+      overflow: hidden;
+      background: $black-color;
+    }
+  }
+  .about-video {
+    margin: 0;
+    figcaption {
+      display: -webkit-box;
+      -webkit-box-orient: vertical;
+      -webkit-line-clamp: 2;
+      overflow: hidden;
+      margin-top: 0.7rem;
+      font-size: 0.95rem;
+      font-weight: 500;
+      line-height: 1.45;
+    }
+  }
+  .about-video-thumb {
+    position: relative;
+    // YouTube thumbnails are 4:3 with letterbox bars; cover crops them to 16:9.
+    img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      transition: transform 0.3s ease;
+    }
+    &:hover img,
+    &:focus-visible img {
+      transform: scale(1.04);
+    }
+  }
+  .about-video-play {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 3.5rem;
+    height: 3.5rem;
+    margin: -1.75rem 0 0 -1.75rem;
+    border-radius: 50%;
+    background: var(--global-theme-color);
+    box-shadow: 0 4px 14px rgba(0, 0, 0, 0.35);
+    transition: transform 0.2s ease;
+    &::after {
+      content: "";
+      position: absolute;
+      top: 50%;
+      left: 54%;
+      transform: translate(-50%, -50%);
+      border-style: solid;
+      border-width: 0.6rem 0 0.6rem 1rem;
+      border-color: transparent transparent transparent $white-color;
+    }
+  }
+  .about-video-thumb:hover .about-video-play,
+  .about-video-thumb:focus-visible .about-video-play {
+    transform: scale(1.1);
+  }
+  @media (max-width: 1100px) {
+    .about-video-grid {
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+    }
+    .about-thrust-grid {
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+    }
+    .about-app-grid {
+      grid-template-columns: repeat(3, minmax(0, 1fr));
+    }
+  }
+  @media (max-width: 800px) {
+    .about-research-grid,
+    .about-app-grid {
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+    }
+    .about-intro {
+      grid-template-columns: 1fr;
+      gap: 0.5rem;
+    }
+  }
+  @media (max-width: 575px) {
+    // Stack the lockup; the panel's crimson top rule carries the accent on small screens.
+    .about-lockup {
+      flex-direction: column;
+      align-items: flex-start;
+      gap: 0.85rem;
+    }
+    .about-lockup-meta {
+      padding-left: 0;
+      border-left: 0;
+    }
+    .about-section {
+      margin-top: 2.75rem;
+    }
+    .about-research-grid,
+    .about-app-grid,
+    .about-video-grid {
+      grid-template-columns: 1fr;
+    }
+  }
+}
