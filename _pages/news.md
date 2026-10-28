@@ -2,35 +2,25 @@
 layout: page
 title: news
 permalink: /news/
-nav: false
-nav_order: 80
+nav: true
+nav_order: 10
+description: Lab announcements, publications, awards, and events
 ---
 
-<style>
-  table {
-    width: 100%;
-    table-layout: fixed;
-    border-collapse: separate;
-    border-spacing: 0 10px; /* Adds spacing between rows */
-  }
-  th, td {
-    padding: 10px;
-    border-bottom: 1px solid #ddd;
-  }
-  th:first-child, td:first-child {
-    width: 15%;
-    min-width: 120px;
-  }
-  th:last-child, td:last-child {
-    width: 85%;
-  }
-</style>
+<div class="news-list" markdown="1">
 
+<h2 class="news-year">2026</h2>
+
+| **2026-10-22** | Our work on probe-free, primer-programmed amplicon encoding was published in _Advanced Science_. Primer design gives each target a predefined amplicon length, which glass nanopores read electrically and a deep neural network decodes, enabling one-pot multiplex detection of Mpox, Cowpox, Vaccinia, and RNase P without target-specific probes. [Read the article](https://doi.org/10.1002/advs.78381). |
+| **2026-09-25** | We received an NIH R21 award to develop MegaPixel, an AI-driven digital melting platform for broad-based bacterial identification. The platform partitions a sample into about 1.2 million microchambers, images DNA melting in each, and uses AI to classify the melting curves, toward faster diagnosis of bloodstream infections and sepsis. [News Coverage](https://news.iu.edu/luddy/live/news/53491-luddy-schools-guan-receives-nih-r21-award) |
 | **2026-07-29** | Our ViraLite work was published in _Microsystems & Nanoengineering_. The ultracompact, battery-powered system combines multiplex RT-LAMP, an internal process control, machine-learning-assisted fluorescence analysis, and smartphone guidance for decentralized HIV viral-load monitoring. [Read the article](https://doi.org/10.1038/s41378-026-01343-9). |
 | **2026-06-01** | Our review article, _Point-of-care testing for early diagnosis and population screening of Alzheimer’s disease: Recent advances and perspectives_, was published in _Nano Today_. |
 | **2026-05-05** | We received a new NSF award to develop eMAP (electronic Multiplexed Amplicon Profiling), a machine learning-enhanced solid-state nanopore platform for rapid multiplexed molecular diagnostics. [News Coverage](https://news.iu.edu/luddy/live/news/50448-luddy-school-researcher-receives-nsf-award-to) |
 | **2026-03-01** | We published _Remotely Controlled Continuous Surveillance of Viral RNA in Wastewater Using a LoRa Network_ in the _IEEE Internet of Things Journal_. |
 | **2026-02-15** | We presented _Solid-State Nanopore Counting Enables Rapid DNA Fragment Assessment for Mobile Genomic Analysis_ at the Biophysical Society Annual Meeting 2026. |
+
+<h2 class="news-year">2025</h2>
+
 | **2025-11-15** | Our portable platform for simultaneous HIV and HCV viral-load self-testing was published in _Biosensors and Bioelectronics_. The system integrates RNA extraction with multiplex RT-PCR, processes a finger-prick blood sample, and returns results in under one hour. [Read the article](https://doi.org/10.1016/j.bios.2025.117843). |
 | **2025-11-15** | Our point-of-need, one-pot multiplex RT-LAMP test was published in _Biosensors and Bioelectronics_. The saliva-based assay uses a machine-learning-enabled compact analyzer to detect SARS-CoV-2, influenza, and RSV simultaneously. [Read the article](https://doi.org/10.1016/j.bios.2025.117836). |
 | **2025-09-15** | Members of the lab presented their latest research on nanopore sensing, molecular diagnostics, wastewater surveillance, and AI-enabled biosensing at the BMES 2025 Annual Meeting. |
@@ -40,11 +30,17 @@ nav_order: 80
 | **2025-05-01** | Welcome Dr. Bingyuan Guo as a Postdoctoral Research Associate in our group.
 | **2025-04-22** | Ming's work on article on Addressing Buffer, Size, and Clogging Challenges in LAMP-Coupled Solid-State Nanopores for Point-of-Care Testing is featured as the cover image of _Analytical Chemistry_! [🔗 Full Image](https://pubs.acs.org/cms/10.1021/ancham.2025.97.issue-14/asset/ancham.2025.97.issue-14.xlargecover-4.jpg) |
 | **2025-01-01** | Our lab has moved to Indiana University and is now part of the Department of Intelligent Systems Engineering in the [Luddy School of Informatics, Computing, and Engineering](https://luddy.indiana.edu/index.html). Multiple PhD and Postdoctoral positions are available.|
+
+<h2 class="news-year">2024</h2>
+
 | **2024-07-15** | One Hardware, Unlimited Possibilities, two graduate students, Aneesh Kshirsagar and Anthony J. Politza, developed a machine learning-enabled multiplexed fluorescence sensing system using a low-cost CMOS spectrometer and the results are now in [ACS Sensors](https://pubs.acs.org/doi/full/10.1021/acssensors.4c00860) |
 | **2024-02-12** | Ahasan's work on using CRISPR-Cas12a Assisted Nanopore With RPA For Monkeypox Detection caught significant media coverage. <br> - [BPS Newsroom](https://www.biophysics.org/news-room/faster-monkeypox-mpox-testing-through-crispr), Faster Monkeypox (mpox) Testing Through CRISPR <br> - [Medriva](https://medriva.com/medical-breakthroughs/revolutionizing-pathogen-testing-a-faster-detection-method-for-mpox-virus-using-crispr-and-nanopore-sensing/), Revolutionizing Pathogen Testing: A Faster Detection Method for Mpox Virus Using CRISPR and Nanopore Sensing <br> - [Azolifesciences](https://www.azolifesciences.com/news/20240212/New-CRISPR-Based-Test-Detects-Mpox-Faster.aspx), New CRISPR-Based Test Detects Mpox Faster <br> - [News Medical](https://www.msn.com/en-gb/health/other/crispr-could-be-used-for-faster-monkeypox-testing/ar-BB1i9WoU), CRISPR could be used for faster monkeypox testing |
 | **2024-02-10** | Two Ph.D. students, Ahasan and Ming, along with a postdoctoral researcher, Asad, from the laboratory will showcase their nanopore research at BPS 2024. |
 | **2024-02-06** | Ming’s paper on High Fidelity Machine Learning-Assisted False Positive Discrimination in LAMP using Nanopore-based Sizing and Counting accepted to _ACS Nano_. Congratulations. |
 | **2024-01-29** | Dr. Guan gave an invited talk at SPIE West. |
+
+<h2 class="news-year">2023</h2>
+
 | **2023-12-22** | Our article on the HIV viral load monitoring device is featured as the cover image of _ACS Sensors_! [🔗 Full Image](https://pubs.acs.org/cms/10.1021/ascefj.2023.8.issue-12/asset/ascefj.2023.8.issue-12.xlargecover-5.jpg) |
 | **2023-08-02** | Anthony’s work on the programmable magnetic robot (ProMagBot) for automated nucleic acid extraction at the point of need was accepted to [_Lab on Chip_](https://doi.org/10.1039/D3LC00545C). Congratulations! See [Video 1](https://www.rsc.org/suppdata/d3/lc/d3lc00545c/d3lc00545c1.mp4), [Video 2](https://www.rsc.org/suppdata/d3/lc/d3lc00545c/d3lc00545c2.mp4), [Video 3](https://www.rsc.org/suppdata/d3/lc/d3lc00545c/d3lc00545c3.mp4), [Video 4](https://www.rsc.org/suppdata/d3/lc/d3lc00545c/d3lc00545c4.mp4) for how it works. |
 | **2023-07-20** | We are awarded the NSF DREAM Sentinels grant for our work on developing a Multiplexable and programmable cell-free ADAR-mediated RNA sensing platform (cfRADAR). This platform aims to enable a rapid and scalable response to emergent viral threats. We are grateful for the support from the NSF and eagerly look forward to working on this exciting project.|
@@ -53,6 +49,9 @@ nav_order: 80
 | **2023-05-10** | Congratulations to Ming on the publication of the paper titled “Morphology around Nanopores Fabricated by Laser-Assisted Dielectric Breakdown and Its Impact on Ion and DNA Transport and Sensing” in _ACS Applied Materials & Interfaces_. |
 | **2023-02-24** | Aneesh’s remarkable paper on “Handheld Purification-Free Nucleic Acid Testing Device for Point-of-Need Detection of Malaria from Whole Blood” has been published in _ACS Sensors_. We applaud the excellent work and its potential impact on point-of-care diagnostics. |
 | **2023-02-06** | Kudos to Anthony for the publication of the paper on “Digital CRISPR systems for the next generation of nucleic acid quantification” in the journal _Trends in Analytical Chemistry_. |
+
+<h2 class="news-year">2022</h2>
+
 | **2022-12-08** | We received an NIH award working on integrating salivary transcriptomics and proteomics in SARS-CoV-2 infection in children. |
 | **2022-12-05** | A group of four lab members attended and presented four posters at the 2022 Chemical and Biological Defense Science & Technology (CBD S&T) Conference. |
 | **2022-11-29** | Aneesh passed the comprehensive exam. Congratulations! |
@@ -71,6 +70,9 @@ nav_order: 80
 | **2022-04-04** | Tianyi’s work on HIV Self Nucleic Acid Testing is accepted to _Biosensors and Bioelectronics_. |
 | **2022-02-22** | Reza’s work on developing a quantitative figure of merit for CRISPR sensing is accepted by [ACS Sensors](https://pubs.acs.org/doi/10.1021/acssensors.2c00024). |
 | **2022-02-14** | Ming’s work on a nanopore-based method for analyzing Mild Traumatic Brain Injury-Related Salivary miRNAs is accepted to [Analytical Chemistry](https://pubs.acs.org/doi/full/10.1021/acs.analchem.1c04781). |
+
+<h2 class="news-year">2021</h2>
+
 | **2021-12-10** | Dr. Guan gave an invited [seminar](https://mae.osu.edu/events/2021/12/kiss-solid-state-nanopore-keep-it-stupidly-simple-towards-sensitive-selective-and) at the Ohio State University. |
 | **2021-10-29** | Zifan’s work using RT-LAMP coupled solid-state nanopores for SARS-CoV-2 detection is accepted to [_Biosensors and Bioelectronics_](https://doi.org/10.1016/j.bios.2021.113759). |
 | **2021-10-01** | Aneesh passed his Ph.D. candidacy exam. |
@@ -83,6 +85,9 @@ nav_order: 80
 | **2021-03-10** | Dr. Guan gave an invited seminar at University of South Carolina. |
 | **2021-01-25** | Dr. Guan received an [NSF CAREER award](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2045169). Grateful to the NSF for this support. See also [news release](https://news.engr.psu.edu/2021/guan-weihua-nsf-career-award.aspx). |
 | **2021-01-17** | [_CRISPR-based detection of SARS-CoV-2: A review from sample to result_](https://doi.org/10.1016/j.bios.2021.113012) was published in _Biosensors and Bioelectronics_. |
+
+<h2 class="news-year">2020</h2>
+
 | **2020-11-09** | Dr. Guan gave a talk at the [Nanopore Electrochemistry Meeting](https://sites.google.com/view/nanoporemeeting2020/home?authuser=0). |
 | **2020-09-01** | Our group was awarded an NIH grant for developing an HIV self-testing. |
 | **2020-08-18** | Ming’s work on [_Direct Observation of Redox-Induced Bubble Generation in Controlled Dielectric Breakdown_](https://pubs.acs.org/doi/pdf/10.1021/acsaelm.0c00576) appeared in _ACS Applied Electronic Materials_. |
@@ -93,6 +98,9 @@ nav_order: 80
 | **2020-04-02** | Zifan passed her comprehensive exam. Congratulations. |
 | **2020-03-23** | Our group was awarded a [seed fund](https://www.huck.psu.edu/news/penn-state-funds-first-round-of-covid-19-research-proposals) from Huck Institute to develop an ultra-compact, point-of-care COVID-19 testing device. |
 | **2020-02-10** | Paper [_Microfluidic Deformability Activated Sorting of Single Particles_](https://www.nature.com/articles/s41378-019-0107-9) appeared in _Microsystems and Nanoengineering_. |
+
+<h2 class="news-year">2019</h2>
+
 | **2019-12-29** | An [invited review](https://doi.org/10.1016/j.npe.2019.12.008) paper on nanopore noise appeared online. |
 | **2019-12-10** | We presented a paper on solid-state nanopore sensors at [IEDM](https://ieee-iedm.org/). |
 | **2019-11-27** | Dr. Niang from Pasteur Institute of Dakar, Senegal visited our lab. |
@@ -111,12 +119,18 @@ nav_order: 80
 | **2019-03-26** | Gihoon Wins Transducers 2019 Student Travel Award. |
 | **2019-03-03** | Zifan presented a poster in [BPS 2019](https://www.biophysics.org/2019meeting). |
 | **2019-02-25** | Welcome Dr. Xiaodong He to join our group. |
+
+<h2 class="news-year">2018</h2>
+
 | **2018-08-20** | Welcome two new members to join us: Reza Nouri (Ph.D. student) and Erica Murphy (Schreyer Scholar). |
 | **2018-08-16** | Dr. Guan gave a seminar at Edgewood Chemical Biological Center (ECBC). |
 | **2018-08-12** | Swasti Mehra wins CERI for Fall 2018, congratulations to Swasti! |
 | **2018-05-19** | Our work on a fourplex nucleic acid testing device published in [_Biosensors and Bioelectronics_](https://linkinghub.elsevier.com/retrieve/pii/S0956566318303580). |
 | **2018-04-20** | Gihoon passed his comprehensive exam. Congratulations. |
 | **2018-03-13** | [CTSI Pilot grant](http://news.psu.edu/story/509931/2018/03/13/academics/pilot-grant-program-helps-advance-research-promote-collaboration) program helps advance research, promote collaboration. |
+
+<h2 class="news-year">2017</h2>
+
 | **2017-12-08** | Tianyi Liu wins CERI for Spring 2018, congratulations to Tianyi! |
 | **2017-11-06** | Weihua attended [NIH-IEEE 2017 Special Topics Conference on Healthcare Innovations and Point of Care Technologies](https://hipt.embs.org/2017), NIH Bethesda Campus. |
 | **2017-10-23** | Gihoon and Weihua attended [MicroTAS2017](https://www.microtas2017.org/). |
@@ -129,6 +143,9 @@ nav_order: 80
 | **2017-02-08** | Gihoon passed the EE Ph.D. Entrance to Candidacy. Congratulations! |
 | **2017-02-07** | Work on Malaria POCT was highlighted on the [Lab on a Chip blog](http://blogs.rsc.org/lc/2017/02/07/sample-in-answer-out/). |
 | **2017-01-23** | Group members (Gihoon, Xiaonan, Daniel, and Weihua) attended the [IEEE MEMS 2017 Conference](http://www.mems17.org/). |
+
+<h2 class="news-year">2016</h2>
+
 | **2016-11-01** | Gihoon’s paper was featured on the back cover of the _Journal Lab on a Chip_. Congratulations! |
 | **2016-09-28** | Our group’s first two journal papers are accepted. Gihoon and Daniel’s paper accepted to _Lab on a Chip_. Zhuofa’s paper accepted to _Sensors_. Congratulations! |
 | **2016-08-20** | Gihoon’s paper accepted to [IEEE‐NIH 2016 Special Topics Conference on Healthcare Innovations and Point‐of‐Care Technologies (HI-POCT’16)](http://hipt.embs.org/2016/). |
@@ -138,6 +155,9 @@ nav_order: 80
 | **2016-02-25** | Welcome Daniel Song (Senior BME undergraduate) to join the lab for research. |
 | **2016-02-29** | We are one of the three ENGINE grants recipients this year. [ENGINE grants provide funding for engineering faculty entrepreneurs](http://news.psu.edu/story/395310/2016/02/29/academics/engine-grants-provide-funding-college-engineering-faculty). |
 | **2016-02-19** | Welcome to Dr. Xiaonan Yang for a one-year research visit. |
+
+<h2 class="news-year">2015</h2>
+
 | **2015-11-24** | Our group wins a [Clinical and Translational Science Institute (CTSI) Pilot Project Funding](http://ctsi.psu.edu/2999-2/). |
 | **2015-08-24** | Welcome to John DiDonato and Jeff Miller from Schreyer Honors College joining the lab to perform honor thesis research. |
 | **2015-08-17** | Gihoon Choi and Zhuofa Chen join the lab. Welcome! |
@@ -148,13 +168,25 @@ nav_order: 80
 | **2015-06-01** | We welcome Kristina Ly and Parker Reusch to join the lab for summer research. |
 | **2015-02-22** | Lab space in 221 Electrical Engineering West is ready to move in. |
 | **2015-01-11** | Research group website is up and running. |
+
+<h2 class="news-year">2014</h2>
+
 | **2014-03-20** | Ion age transport: Developing devices beyond electronics, our review article featured in [Nanotechweb](http://nanotechweb.org/cws/article/indepth/56637) by Anna Demming. |
+
+<h2 class="news-year">2013</h2>
+
 | **2013-03-31** | _Nanochannels: Yale Engineers Design the First Functional Artificial Ion Channel_, featured in [Yale Scientific Magazine](http://www.yalescientific.org/2013/03/nanochannels-yale-engineers-design-the-first-functional-artificial-ion-channel/). |
 | **2013-03-13** | ‘Field Effect Ionics in Nanochannels’ won Best Oral Paper in Connecticut Symposium on Microelectronics & Optoelectronics. |
 | **2013-01-22** | _Engineers fabricate ion channels for commercial use_ in [YaleDailyNews](http://yaledailynews.com/blog/2013/01/22/engineers-fabricate-ion-channels-for-commercial-use/) by Marek Ramilo. |
 | **2013-01-11** | _Yale Engineers Create Microelectronic Device that Mimics Functions of Real Cells_, [YaleNEWS](http://seas.yale.edu/news-events/news/yale-engineers-create-microelectronic-device-mimics-functions-real-cells) by Eric Gershon. |
+
+<h2 class="news-year">2012</h2>
+
 | **2012-04-24** | New concept for fast, low-cost DNA sequencing device featured in [ScienceDaily](http://www.sciencedaily.com/releases/2012/04/120424120455.htm). |
 | **2012-03-09** | Dr. Guan awarded the prestigious 2011 Chinese Government Award for Outstanding Self-Financed Students Abroad. |
+
+<h2 class="news-year">2011</h2>
+
 | **2011-12-20** | International Students Win New HHMI Fellowships. Featured in [Yale Graduate School Newsletter](http://www.yale.edu/graduateschool/publications/news/201112/international-hhmi-fellowship-winners.html) and [HHMI](http://www.hhmi.org/news/new-fellowship-funds-research-48-international-graduate-students). |
 | **2011-11-09** | Work on field-effect reconfigurable nanofluidic ionic diodes covered by [YaleNEWS](http://news.yale.edu/2011/10/30/yale-engineers-open-new-field-inquiry-bioelectronics), [YaleDailyNews](http://yaledailynews.com/blog/2011/11/08/scientists-make-breakthrough-in-bioelectronics/), and [Brazilian Technological Innovation](http://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=diodo-nanofluidico-une-mundos-eletronico-biologico&id=010110111109#.UzdnI6hdV6M). |
 | **2011-11-04** | _Engineers merge ideas from biology and electronics to create a new device_, [Canadian Institute for Advanced Research](http://www.cifar.ca/engineers-merge-ideas-from-biology-and-electronics-to-create-new-device). |
@@ -164,3 +196,5 @@ nav_order: 80
 | **2011-06-10** | Dr. Guan awarded HHMI International Student Research Fellowship. Coverage in [HHMI](https://www.hhmi.org/news/new-fellowship-funds-research-48-international-graduate-students), [Science](http://news.sciencemag.org/2011/08/new-hughes-fellowships-help-international-graduate-students?ref=hp), and [Nature](https://sites.psu.edu/guanlab/wp-content/uploads/sites/14395/2014/08/news_NATURE_InternationalFunding.pdf). |
 | **2011-05-23** | _Particle trap paves way for personalized medicine_: Featured in [Science Daily](http://www.sciencedaily.com/releases/2011/05/110523152340.htm), [Yale news release](http://news.yale.edu/2011/05/23/particle-trap-paves-way-personalized-medicine), [KentuckyDoc Magazine](http://www.readoz.com/publication/read?i=1038190&pg=31#page30), and [R&D Magazine](http://www.rdmag.com/News/2011/05/Life-Science-Technology-Particle-trap-paves-way-for-personalized-medicine/). |
 | **2011-04-21** | Rediscovered trapping mechanism favors smaller particles—work on AC electrophoretic (ACEP) phenomena is featured in [Nanotechweb](http://nanotechweb.org/cws/article/lab/46314). |
+
+</div>
