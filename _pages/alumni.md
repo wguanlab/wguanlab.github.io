@@ -65,15 +65,19 @@ nav_order: 6
 
 ## Master Students
 
-| Name               | Period              | Additional Information |
-| ------------------ | ------------------- | ---------------------- |
-| Yilin Zhang        | Aug 2023 – Aug 2024 |                        |
-| Fanming Liu        | Aug 2022 – Mar 2023 | **Next**: PhD, PSU     |
-| Wenxin Cao         | Aug 2020 – May 2021 |                        |
-| Tianyi Liu         | Aug 2019 – May 2020 | **Next**: PhD, PSU     |
-| Kamyar Roshan      | Aug 2017 – May 2019 | **Next**: PhD, PSU     |
-| Nicholas Budzinski | Aug 2017 – May 2018 |                        |
-| Qi Yan             | Aug 2016 – Dec 2017 |                        |
+| Name                            | Period              | Additional Information |
+| ------------------------------- | ------------------- | ---------------------- |
+| Ujwal Jibhkate                  | Aug 2025 – 2026     |                        |
+| Lakshmi Bhanu Aravind Nidamarty | Aug 2025 – 2026     |                        |
+| Xue Xiao                        | Aug 2025 – 2026     |                        |
+| Aditya Bhausaheb Dhumal         | Aug 2025 – 2026     |                        |
+| Yilin Zhang                     | Aug 2023 – Aug 2024 |                        |
+| Fanming Liu                     | Aug 2022 – Mar 2023 | **Next**: PhD, PSU     |
+| Wenxin Cao                      | Aug 2020 – May 2021 |                        |
+| Tianyi Liu                      | Aug 2019 – May 2020 | **Next**: PhD, PSU     |
+| Kamyar Roshan                   | Aug 2017 – May 2019 | **Next**: PhD, PSU     |
+| Nicholas Budzinski              | Aug 2017 – May 2018 |                        |
+| Qi Yan                          | Aug 2016 – Dec 2017 |                        |
 
 ---
 
@@ -81,6 +85,8 @@ nav_order: 6
 
 | Name               | Period              | Additional Information                                                                                                    |
 | ------------------ | ------------------- | ------------------------------------------------------------------------------------------------------------------------- |
+| Jack Wember        | Aug 2025 – 2026     |                                                                                                                           |
+| Angelo Gonzalez    | Aug 2025 – 2026     |                                                                                                                           |
 | Hueyue Pan         | Aug 2022 – Mar 2023 |                                                                                                                           |
 | Naqiyah Peatiwala  | Jan 2022 – May 2022 |                                                                                                                           |
 | Jiarui (Jerry) Cui | Aug 2020 – May 2022 |                                                                                                                           |

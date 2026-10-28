@@ -87,67 +87,39 @@ profiles:
     more_info:
 
   - align: left
-    image: Ujwal_Jibhkate.png
+    image: Tonmoy_Saha.jpg
     content: >
-      Ujwal Jibhkate <br>
+      Tonmoy Chandro Saha <br>
       Graduate Student<br>
-      Email: <ujibhkat@iu.edu> <br><br>
+      Email: <tonmsaha@iu.edu> <br>
+      Google Scholar: <https://scholar.google.com/citations?user=Jdb4YqUAAAAJ&hl=en> <br>
+      ORCID: <https://orcid.org/0009-0004-8062-0169> <br>
+      LinkedIn: <https://www.linkedin.com/in/tonmoy-chandro-saha-7301b8234/> <br><br>
 
-      Ujwal Jibhkate is a Graduate Research Assistant in the Guan Lab and a Master of Science in Data Science student at Indiana University, Bloomington. He joined the lab in Fall 2025 and is currently working on developing foundation model applications for HIV RNA sequencing, with a specific focus on identifying Drug Resistance Mutations. His research interests include applied AI in genomics, bioinformatics, and end-to-end MLOps for scientific research. Prior to joining the Guan Lab, he worked for two years as a Software Engineer at IBM and earned a Bachelor of Engineering in Electrical Engineering with minor in Computer Science from Ramdeobaba University, India.<br><br>
+      Tonmoy is a Graduate Research Assistant in the Guan Lab and a PhD student in the Department of Engineering at Indiana University Bloomington. He joined the lab in Fall 2026 and is currently developing AI for spatiotemporal well tracking in digital assays. His research interests span biomedical image and signal processing, machine learning and AI in healthcare, mHealth/telemedicine systems, and biosensor and medical device development. Prior to joining the Guan Lab, Tonmoy spent two years (2024–2026) as a Research Assistant at the mHealth Lab, Bangladesh University of Engineering and Technology (BUET), where he contributed to a UNICEF-funded project developing an IoT-based real-time temperature monitoring device for vaccine cold-chain assurance. He holds a B.Sc. in Biomedical Engineering from BUET (2024), during which he designed an automatic external defibrillator tailored for low-resource settings and led an AI-driven Aedes mosquito detection project.
+
     image_circular: false # crops the image to make it circular
     more_info:
 
   - align: left
-    image: Lakshmi Bhanu Aravind Nidamarty.jpg
+    image: Jawad_Azad.jpg
     content: >
-      Lakshmi Bhanu Aravind Nidamarty <br>
+      Munshi Jawad Ibne Azad <br>
       Graduate Student<br>
-      Email: <lnidama@iu.edu> <br><br> 
-      Lakshmi Bhanu Aravind Nidamarty is a Graduate Research Assistant in the Guan Lab at Indiana University Bloomington. He joined the lab in Fall 2025 and is currently working on AI Enhanced Nanopore Sequencing project . His research interests include computational biology, machine learning for bioinformatics, and LLMs for healthcare. Prior to joining the Guan Lab, he earned a Bachelor of Technology in Mechanical Engineering from SASTRA University and worked as a Data Analyst for over a year from 2023 to 2024. <br><br>
+      Email: <azadm@iu.edu> <br>
+      Google Scholar: <https://scholar.google.com/citations?user=H5uKBMYAAAAJ&hl=en> <br>
+      ORCID: <https://orcid.org/0009-0006-4230-8064> <br><br>
+
+      Jawad is currently pursuing his Ph.D. in the Department of Engineering at Indiana University Bloomington. He joined the Guan Lab in Fall 2026 as a Graduate Research Assistant. His current work involves Oxford Nanopore sequencing and the development of next-gen bioinformatics pipelines for HIV drug-resistance mutation detection and profiling. His broader research interests include Artificial Intelligence and Genomic Language Models, particularly their potential to improve the analysis and interpretation of complex genomic data. He earned his B.Sc. in Electrical and Electronic Engineering from Khulna University of Engineering & Technology (KUET), Bangladesh, where his research focused on optimizing Deep Learning algorithms for biomedical image analysis. Away from his research, Jawad enjoys exploring new places, capturing life through photography, and unwinding with a good book.
+
     image_circular: false # crops the image to make it circular
     more_info:
 
   - align: left
-    image: Xue Xiao.jpg
     content: >
-      Xue Xiao <br>
+      Abrar Zarif <br>
       Graduate Student<br>
-      Email: <xuexiao@iu.edu> <br><br>
-      Xue Xiao is a research assistant in the Guan Lab at Indiana University - Bloomington. She joined the lab in Fall 2025 and is currently developing AI-driven pipelines for real-time HIV drug resistance prediction using Nanopore sequencing and Stanford HIVDB data. Her research interests include AI-driven genomics and computational modeling.  <br><br>
-    image_circular: false # crops the image to make it circular
-    more_info:
-
-  - align: left
-    image: Aditya Bhausaheb Dhumal.jpg
-    content: >
-      Aditya Bhausaheb Dhumal <br>
-      Graduate Student<br>
-      Email: <addhumal@iu.edu> <br><br>    
-      Aditya Dhumal is a Research Assistant in the Computer Science Department at Indiana University Bloomington and a Master of Science in Computer Science student. He joined the lab in Fall 2025 and is currently working on nanopore sequencing automation and genomic large language models, focusing on building real-time bioinformatics pipelines and AI-driven genomic analysis systems. His research interests include genomic LLMs, edge computing for bioinformatics, and intelligent automation in scientific workflows. In addition to his academic research, he also works as an AI/ML Engineer at Blackwood Solutions, developing edge AI systems and computer vision pipelines for real-world deployment. Prior to joining Indiana University, he earned a Bachelor of Engineering in Artificial Intelligence and Data Science from Savitribai Phule Pune University in 2024.
-
-    image_circular: false # crops the image to make it circular
-    more_info:
-
-  - align: left
-    image: Angelo Gonzalez.jpg
-    content: >
-      Angelo Gonzalez <br>
-      Undergraduate Student<br>
-      Email: <ag38@iu.edu> <br>
-      github: <https://www.github.com/gelogonza>  <br>
-      personal website: <https://www.angelogonza.com>  <br><br>
-      Angelo Gonzalez is an informatics major currently working on an AI-Based Prediction of HIV Drug Resistance in the Guan Lab at Indiana University Bloomington. He joined the lab in Fall 2025 and is currently working on parsing the HIVDB XML, unifying a dataset, and training and evaluating a baseline model. His research interests include mutations and nanopore sensing.
-
-    image_circular: false # crops the image to make it circular
-    more_info:
-
-  - align: left
-    image: Jack Wember.jpg
-    content: >
-      Jack Wember <br>
-      Undergraduate Student<br>
-      Email: <jwember@iu.edu> <br><br>   
-      Jack Wember is an Undergrad Researcher in the Guan Lab at Indiana University Bloomington who is studying Computer Science with a specialization in Software Engineering. He joined the lab in Fall 2025 and is working on hardware implementation of sequencing using Nvidia Jetson Orin Developer kits, while also helping develop portable nanopore sequencing platforms for point-of-need diagnostics. His research interests include embedded systems for biomedical applications, GPU-accelerated bioinformatics, and portable diagnostic technologies.
+      Email: <abzarif@iu.edu> <br><br>
 
     image_circular: false # crops the image to make it circular
     more_info:
