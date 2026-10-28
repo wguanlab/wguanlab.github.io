@@ -1,2 +1,9 @@
 # Force LF line endings, needed for Docker to work on Windows
 *.sh text eol=lf
+# Never line-ending-convert documents and media (git can misdetect some PDFs as text)
+*.pdf binary
+*.doc binary
+*.docx binary
+*.mp4 binary
+*.mov binary
+*.zip binary
