@@ -10,7 +10,7 @@ profiles:
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
   - align: left
-    image: Weihua_Guan.jpg
+    image: members/weihua-guan.jpg
     content: >
       Weihua (Wei) Guan, Ph.D.<br>
       Full Professor, Department of Engineering <br>
@@ -25,7 +25,7 @@ profiles:
     more_info:
 
   - align: left
-    image: Asad_Khalid.jpg
+    image: members/asad-khalid.jpg
     content: >
       Asad Khalid, Ph.D. <br>
       Postdoctoral Fellow <br>
@@ -39,7 +39,7 @@ profiles:
     more_info:
 
   - align: left
-    image: Bingyuan_Guo.png
+    image: members/bingyuan-guo.jpg
     content: >
       Bingyuan Guo, Ph.D.<br>
       Postdoctoral Fellow <br>
@@ -49,7 +49,7 @@ profiles:
     more_info:
 
   - align: left
-    image: Aneesh_Kshirsagar.jpg
+    image: members/aneesh-kshirsagar.jpg
     content: >
       Aneesh Kshirsagar, Ph.D.<br>
       Postdoctoral Fellow <br>
@@ -61,7 +61,7 @@ profiles:
     more_info:
 
   - align: left
-    image: Tathagata_Pal.jpg
+    image: members/tathagata-pal.jpg
     content: >
       Tathagata "Tag" Pal, Ph.D.<br>
       Postdoctoral Fellow <br>
@@ -73,7 +73,7 @@ profiles:
     more_info:
 
   - align: left
-    image: Ahasan_Ahamed.jpg
+    image: members/ahasan-ahamed.jpg
     content: >
       Ahasan Ahamed <br>
       Graduate Student<br> 
@@ -87,7 +87,7 @@ profiles:
     more_info:
 
   - align: left
-    image: Tonmoy_Saha.jpg
+    image: members/tonmoy-saha.jpg
     content: >
       Tonmoy Chandro Saha <br>
       Graduate Student<br>
@@ -102,7 +102,7 @@ profiles:
     more_info:
 
   - align: left
-    image: Jawad_Azad.jpg
+    image: members/jawad-azad.jpg
     content: >
       Munshi Jawad Ibne Azad <br>
       Graduate Student<br>
@@ -116,6 +116,7 @@ profiles:
     more_info:
 
   - align: left
+    image: members/placeholder.jpg
     content: >
       Abrar Zarif <br>
       Graduate Student<br>
