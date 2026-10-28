@@ -234,6 +234,43 @@
           <a href="{{ entry.supp | prepend: '/assets/pdf/' | relative_url }}" class="btn btn-sm z-depth-0" role="button">Supp</a>
         {% endif %}
       {% endif %}
+      {% if entry.si %}
+        {% comment %}
+          si = {file1; file2; ...} under assets/pdf/ (or full URLs). Documents become "SI" (SI1, SI2, ... if several);
+          videos become SI-Video1, SI-Video2, ...
+        {% endcomment %}
+        {% assign si_files = entry.si | split: ';' %}
+        {% assign si_doc_total = 0 %}
+        {% for f in si_files %}
+          {% assign ext = f | strip | split: '.' | last | downcase %}
+          {% unless ext == 'mp4' or ext == 'avi' or ext == 'mov' or ext == 'wmv' or ext == 'mpg' or ext == 'mpeg' or ext == 'm4v' %}
+            {% assign si_doc_total = si_doc_total | plus: 1 %}
+          {% endunless %}
+        {% endfor %}
+        {% assign si_doc = 0 %}
+        {% assign si_video = 0 %}
+        {% for f in si_files %}
+          {% assign si_file = f | strip %}
+          {% assign ext = si_file | split: '.' | last | downcase %}
+          {% if ext == 'mp4' or ext == 'avi' or ext == 'mov' or ext == 'wmv' or ext == 'mpg' or ext == 'mpeg' or ext == 'm4v' %}
+            {% assign si_video = si_video | plus: 1 %}
+            {% capture si_label %}SI-Video{{ si_video }}{% endcapture %}
+          {% else %}
+            {% assign si_doc = si_doc | plus: 1 %}
+            {% if si_doc_total > 1 %}
+              {% capture si_label %}SI{{ si_doc }}{% endcapture %}
+            {% else %}
+              {% assign si_label = 'SI' %}
+            {% endif %}
+          {% endif %}
+          {% if si_file contains '://' %}
+            {% assign si_href = si_file %}
+          {% else %}
+            {% assign si_href = si_file | prepend: '/assets/pdf/' | relative_url %}
+          {% endif %}
+          <a href="{{ si_href }}" class="btn btn-sm z-depth-0" role="button">{{ si_label }}</a>
+        {% endfor %}
+      {% endif %}
       {% if entry.video and site.enable_video_embedding %}
         <a class="abstract btn btn-sm z-depth-0" role="button">Video</a>
       {% elsif entry.video %}
