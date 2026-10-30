@@ -116,11 +116,15 @@ profiles:
     more_info:
 
   - align: left
-    image: members/placeholder.jpg
+    image: members/abrar-zarif.jpg
     content: >
       Abrar Zarif <br>
       Ph.D. Student<br>
-      Email: <abzarif@iu.edu> <br><br>
+      Email: <abzarif@iu.edu> <br>
+      Google Scholar: <https://scholar.google.com/citations?user=XqB68lsAAAAJ&hl=en> <br>
+      ORCID: <https://orcid.org/0009-0002-1523-1971> <br><br>
+
+      Abrar Zarif is a Ph.D. student in the Department of Engineering at Indiana University Bloomington, working as a Graduate Research Assistant in the Guan Lab. His current research focuses on developing AI-integrated nanopore biosensing technologies for real-time detection and classification of disease-associated biomarkers. He is particularly interested in combining advanced biosensing technologies, signal processing, and edge AI to develop portable, intelligent point-of-care diagnostic systems. He earned his Bachelor of Science in Electrical and Electronic Engineering from the University of Dhaka, Bangladesh. He also served briefly as a Lecturer at Daffodil International University before starting his doctoral studies. Outside of work and studies, he likes to watch films, hike, play sports and travel the world.
 
     image_circular: false # crops the image to make it circular
     more_info:
